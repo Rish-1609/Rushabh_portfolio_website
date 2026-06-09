@@ -1,0 +1,1480 @@
+
+
+================================================================================
+FILE: Rushabh Resume AI.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE   
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Lead enterprise AI, data, and digital transformation initiatives across pharmaceutical, healthcare, manufacturing, and 
+energy clients, improving operational efficiency and data-driven decision-making.  
+• Designed and deployed Data Lighthouse, an AI-powered platform for data quality, governance, enrichment, reconciliation, 
+and workflow automation, reducing manual effort by ~40% and improving data accuracy by ~30%.  
+• Architected Agentic AI solutions leveraging multi-agent systems, RAG, knowledge graphs, and human-in-the-loop 
+workflows to automate data operations and business processes.  
+• Developed enterprise AI assistants and chatbots integrated with ERP, CRM, SAP, SharePoint, and cloud platforms, 
+enabling natural language access to business knowledge, analytics, and operational workflows.  
+• Designed AI orchestration frameworks using MCP (Model Context Protocol) and A2A (Agent-to-Agent) communication 
+patterns to coordinate specialized agents for data analysis, profiling, reconciliation, and governance.  
+• Established enterprise data governance and MDM frameworks across customer, vendor, and material domains, enabling 
+compliant, audit-ready data ecosystems.  
+• Built cloud-native AI and analytics solutions on AWS, Azure, and GCP using Snowflake, Databricks, and modern data 
+architectures to accelerate insight generation and reporting.  
+• Partnered with executive stakeholders to define AI roadmaps, prioritize use cases, and lead cross-functional teams spanning 
+AI/ML, data engineering, analytics, and business functions from strategy through implementation. 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable 
+technology solutions 
+• Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational 
+visibility 
+• Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory 
+compliance 
+• Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing 
+operational costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML
+
+
+================================================================================
+FILE: Rushabh Resume DTAI.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE   
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led enterprise AI and data transformation initiatives across pharma, healthcare, and oil & gas clients, improving data 
+reliability, decision-making, and operational efficiency 
+• Designed and deployed Data Lighthouse, an AI-powered data platform enabling automated data cleansing, enrichment, 
+governance, and workflow automation, reducing manual effort by ~40% and improving data accuracy by ~30% 
+• Led a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating 
+delivery, priorities, risks, and stakeholder alignment across multiple client workstreams. 
+• Established data governance and MDM frameworks across customer, vendor, and material domains, enabling compliant, 
+audit-ready data ecosystems aligned with GDPR and regulated GxP environments 
+• Built scalable cloud data solutions across AWS, Azure, and GCP to integrate ERP, CRM, and external data sources, 
+improving reporting speed and reducing data latency by ~25%. 
+• Partnered with business leaders to identify AI opportunities, translate them into practical use cases, and drive adoption of 
+automation, analytics, and decision-support capabilities. 
+• Supported AI/ML-driven initiatives, including entity resolution, intelligent matching, data enrichment, and workflow 
+automation, reducing manual intervention and enabling scalable data operations. 
+• Contributed to business growth and transformation programs by supporting new revenue opportunities, strengthening client 
+data maturity, and enabling scalable enterprise AI adoption. 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable 
+technology solutions 
+• Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational 
+visibility 
+• Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory 
+compliance 
+• Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing 
+operational costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML
+
+
+================================================================================
+FILE: Rushabh Resume H&L.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE 
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led enterprise MDM programs for large-scale pharma, medical device and global life sciences organizations across 
+customer, vendor, material, and finance domains using SAP MDG, Reltio, and Informatica, improving data quality, 
+governance, and compliance with FDA 21 CFR Part 11 and GxP requirements 
+• Designed and deployed Data Lighthouse, a cloud-agnostic, Agentic AI-powered platform to automate data cleansing, 
+enrichment, validation, and governance workflows at scale across pharma and healthcare data environments 
+• Built and managed scalable data pipelines and transformation frameworks using Databricks and cloud platforms (AWS, 
+Azure, GCP), enabling analytics, regulatory reporting, and downstream system integration 
+• Defined and implemented data governance and quality frameworks aligned with GxP standards, ensuring data integrity, 
+traceability, and audit readiness across enterprise systems 
+• Integrated data across ERP, CRM, claims, and supply chain systems into unified analytics layers and dashboards (Tableau, 
+Power BI), enabling insights across patient, HCP, commercial, and operational performance 
+• Acted as a client-facing engagement lead, driving requirement gathering, solution design, and cross-functional delivery 
+across data engineering, analytics, and business stakeholders 
+• Led AI-driven and digital transformation initiatives, including process automation and M&A data integration, contributing 
+to operational efficiency improvements and supporting $20M+ in new business growth 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Advised pharma and healthcare clients on digital transformation and Manufacturing 4.0 initiatives, aligning business 
+processes with scalable technology solutions 
+• Led requirement gathering, process analysis, and solution design for enterprise data and analytics programs, collaborating 
+with cross-functional stakeholders 
+• Supported global LIMS implementation across 7+ sites, driving data integration, process standardization, and compliance 
+in regulated environments 
+• Contributed to transformation and M&A initiatives, including gap assessments, target-state design, and stakeholder 
+alignment, while supporting delivery in agile environments 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Developed and implemented a cloud-based logistics and fleet optimization model, enabling last-mile delivery companies 
+to adopt electric vehicles and scale efficiently 
+• Raised and executed a fund utilization plan and financial model for a $400k seed investment 
+ 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML 
+modeling
+
+
+================================================================================
+FILE: Rushabh Resume MDM.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University    August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                   Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst,  Data-Driven Quality 
+Management, Analytical decision modeling, Statistics, Business Data Visualization  
+ 
+Narsee Monjee Institute of Management Studies       June 2019 – April 2021 
+Master of Business Administration (MBA)                     Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development  
+ 
+Bombay College of Pharmacy at Mumbai University        May 2014 – May 2018 
+Bachelor of Pharmacy                     Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE    
+   Manager Consultant- SME Business Data Services                                                                                                    June 2023 – Present 
+   Genpact LLC                                                                                                                                                               Boston, Massachusetts 
+• Led enterprise MDM, Data Governance, and AI transformation initiatives across pharma, healthcare, and oil & gas clients, 
+improving data reliability and operational efficiency by ~30%  
+• Designed and deployed Data Lighthouse, an AI-powered data governance platform enabling automated data cleansing, enrichment, 
+validation, stewardship, and governance workflows, reducing manual effort by ~40% and improving data accuracy by ~30%  
+• Implemented MDM, Data Quality, and governance frameworks across Customer, Vendor, Material, and Finance domains using 
+SAP MDG, Informatica MDM, Reltio, Snowflake, and Databricks, reducing duplicate records by ~25% and improving enterprise -
+wide data consistency  
+• Built AI-enabled entity resolution, fuzzy matching, and golden record creation frameworks across ERP and CRM systems, 
+improving master data quality and reducing manual remediation efforts  
+• Developed cloud-native governed data platforms on AWS, Azure, and GCP integrating SAP, Salesforce, and enterprise systems, 
+reducing reporting latency by ~25% and enabling scalable governed analytics  
+• Established data quality rules, metadata standards, lineage tracking, stewardship workflows, and compliance frameworks aligne d 
+with GDPR, SOX, and regulated GxP environments  
+• Partnered with business and IT leaders to drive enterprise data strategy, governance, and AI -driven automation across global 
+analytics and engineering teams 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                               Mumbai, India 
+• Supported enterprise data governance and digital transformation initiatives for global life sciences clients, improving repor ting 
+consistency and operational visibility by ~20%  
+• Gathered and translated business requirements for MDM, data quality, and governance programs while supporting scalable 
+enterprise data solutions across regulated environments  
+• Contributed to a global LIMS implementation across 7+ sites by standardizing master data structures, governance workflows, an d 
+compliance reporting processes  
+• Performed data gap analysis, business rule validation, process optimization, and stakeholder coordination to improve data int egrity, 
+workflow efficiency, and governance maturity  
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                        Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing operational 
+costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last -mile delivery  
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP S/4HANA, SAP MDG, Tableau, Power BI, Databricks, Snowflake, Informatica, Stibo and 
+Reltio. Large Language Models, Agentic AI, prompt engineering, RAG, AI-powered Data Quality & Automation 
+• Language: C++, Python, R, SQL
+
+
+================================================================================
+FILE: Rushabh Resume mdm.docx
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/ 
+
+EDUCATION 
+
+W. P. Carey School of Business at Arizona State University	   August 2022 – May 2023
+Master of Science in Business Analytics (MSBA)	                  Tempe, Arizona
+Honors: 4 GPA
+Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven Quality Management, Analytical decision modeling, Statistics, Business Data Visualization
+
+Narsee Monjee Institute of Management Studies	      June 2019 – April 2021 Master of Business Administration (MBA)	                    Mumbai, India
+Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship
+Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain management, Brand Management, Consumer Behavior, Business Development
+
+Bombay College of Pharmacy at Mumbai University	       May 2014 – May 2018 Bachelor of Pharmacy	                    Mumbai, India
+Honors: 6.98 GPA; General Secretary of Student Council
+
+PROFESSIONAL EXPERIENCE
+  
+   Manager Consultant- SME Business Data Services                                                                                                    June 2023 – Present
+   Genpact LLC                                                                                                                                                               Boston, Massachusetts
+Led enterprise MDM, Data Governance, and AI transformation initiatives across pharma, healthcare, and oil & gas clients, improving data reliability and operational efficiency by ~30% 
+Designed and deployed Data Lighthouse, an AI-powered data governance platform enabling automated data cleansing, enrichment, validation, stewardship, and governance workflows, reducing manual effort by ~40% and improving data accuracy by ~30% 
+Implemented MDM, Data Quality, and governance frameworks across Customer, Vendor, Material, and Finance domains using SAP MDG, Informatica MDM, Reltio, Snowflake, and Databricks, reducing duplicate records by ~25% and improving enterprise-wide data consistency 
+Built AI-enabled entity resolution, fuzzy matching, and golden record creation frameworks across ERP and CRM systems, improving master data quality and reducing manual remediation efforts 
+Developed cloud-native governed data platforms on AWS, Azure, and GCP integrating SAP, Salesforce, and enterprise systems, reducing reporting latency by ~25% and enabling scalable governed analytics 
+Established data quality rules, metadata standards, lineage tracking, stewardship workflows, and compliance frameworks aligned with GDPR, SOX, and regulated GxP environments 
+Partnered with business and IT leaders to drive enterprise data strategy, governance, and AI-driven automation across global analytics and engineering teams
+Business Analyst	     May 2021 – July 2022
+Cognizant Pvt. Ltd.                                                                                                                                                               Mumbai, India
+Supported enterprise data governance and digital transformation initiatives for global life sciences clients, improving reporting consistency and operational visibility by ~20% 
+Gathered and translated business requirements for MDM, data quality, and governance programs while supporting scalable enterprise data solutions across regulated environments 
+Contributed to a global LIMS implementation across 7+ sites by standardizing master data structures, governance workflows, and compliance reporting processes 
+Performed data gap analysis, business rule validation, process optimization, and stakeholder coordination to improve data integrity, workflow efficiency, and governance maturity
+
+Co-Founder - Startup	    May 2018 – May 2020
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                        Mumbai, India
+Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing operational costs
+Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery
+
+SKILLS & ACTIVITIES
+
+Computer Skills:  Azure, AWS, GCP, SAP S/4HANA, SAP MDG, Tableau, Power BI, Databricks, Snowflake, Informatica, Stibo and Reltio. Large Language Models, Agentic AI, prompt engineering, RAG, AI-powered Data Quality & Automation
+Language: C++, Python, R, SQL
+
+
+================================================================================
+FILE: Rushabh Resume pharma.docx
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/ 
+
+EDUCATION 
+
+W. P. Carey School of Business at Arizona State University	August 2022 – May 2023
+Master of Science in Business Analytics (MSBA)	                Tempe, Arizona
+Honors: 4 GPA
+Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven Quality Management, Analytical decision modeling, Statistics, Business Data Visualization
+
+Narsee Monjee Institute of Management Studies	   June 2019 – April 2021 Master of Business Administration (MBA)	                 Mumbai, India
+Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship
+Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain management, Brand Management, Consumer Behavior, Business Development
+
+Bombay College of Pharmacy at Mumbai University	    May 2014 – May 2018 Bachelor of Pharmacy	                 Mumbai, India
+Honors: 6.98 GPA; General Secretary of Student Council
+
+PROFESSIONAL EXPERIENCE
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts
+Led enterprise MDM programs for large-scale pharma, medical device and global life sciences organizations across customer, vendor, material, and finance domains using SAP MDG, Reltio, and Informatica, improving data quality, governance, and compliance with FDA 21 CFR Part 11 and GxP requirements
+Designed and deployed Data Lighthouse, a cloud-agnostic, Agentic AI-powered platform to automate data cleansing, enrichment, validation, and governance workflows at scale across pharma and healthcare data environments
+Built and managed scalable data pipelines and transformation frameworks using Databricks and cloud platforms (AWS, Azure, GCP), enabling analytics, regulatory reporting, and downstream system integration
+Defined and implemented data governance and quality frameworks aligned with GxP standards, ensuring data integrity, traceability, and audit readiness across enterprise systems
+Integrated data across ERP, CRM, claims, and supply chain systems into unified analytics layers and dashboards (Tableau, Power BI), enabling insights across patient, HCP, commercial, and operational performance
+Acted as a client-facing engagement lead, driving requirement gathering, solution design, and cross-functional delivery across data engineering, analytics, and business stakeholders
+Led AI-driven and digital transformation initiatives, including process automation and M&A data integration, contributing to operational efficiency improvements and supporting $20M+ in new business growth
+Business Analyst	     May 2021 – July 2022
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India
+Advised pharma and healthcare clients on digital transformation and Manufacturing 4.0 initiatives, aligning business processes with scalable technology solutions
+Led requirement gathering, process analysis, and solution design for enterprise data and analytics programs, collaborating with cross-functional stakeholders
+Supported global LIMS implementation across 7+ sites, driving data integration, process standardization, and compliance in regulated environments
+Contributed to transformation and M&A initiatives, including gap assessments, target-state design, and stakeholder alignment, while supporting delivery in agile environments
+
+Co-Founder - Startup	    May 2018 – May 2020
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India
+Developed and implemented a cloud-based logistics and fleet optimization model, enabling last-mile delivery companies to adopt electric vehicles and scale efficiently
+Raised and executed a fund utilization plan and financial model for a $400k seed investment
+
+
+SKILLS & ACTIVITIES
+
+Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio
+Language: C++, Python, Scikit-learn, SQL
+Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML modeling
+
+
+================================================================================
+FILE: Rushabh Resume v2.docx
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/ 
+
+EDUCATION 
+
+W. P. Carey School of Business at Arizona State University	August 2022 – May 2023
+Master of Science in Business Analytics (MSBA)	                Tempe, Arizona
+Honors: 4 GPA
+Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven Quality Management, Analytical decision modeling, Statistics, Business Data Visualization
+
+Narsee Monjee Institute of Management Studies	   June 2019 – April 2021 Master of Business Administration (MBA)	                 Mumbai, India
+Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship
+Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain management, Brand Management, Consumer Behavior, Business Development
+
+Bombay College of Pharmacy at Mumbai University	    May 2014 – May 2018 Bachelor of Pharmacy	                 Mumbai, India
+Honors: 6.98 GPA; General Secretary of Student Council
+
+PROFESSIONAL EXPERIENCE
+ 
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts
+Led enterprise AI and data transformation initiatives across pharma, healthcare, and oil & gas clients, improving data reliability, decision-making, and operational efficiency
+Designed and deployed Data Lighthouse, an AI-powered data platform enabling automated data cleansing, enrichment, and governance, reducing manual effort by ~40% and improving data accuracy by ~30%
+Established data governance and MDM frameworks across customer, vendor, and material domains, enabling compliant, audit-ready data ecosystems aligned with GDPR and regulated environments (GxP)
+Built scalable cloud data solutions (AWS, Azure, GCP) to integrate ERP, CRM, and external data, improving reporting speed and reducing data latency by ~25%
+Partnered with business leaders to translate AI opportunities into practical use cases, driving adoption of automation, analytics, and decision-support capabilities
+Led cross-functional delivery teams across data engineering, analytics, and business stakeholders, ensuring alignment from strategy through execution
+Supported AI/ML-driven initiatives (entity resolution, automation, data enrichment), reducing manual intervention and enabling scalable data operations
+Contributed to business growth and transformation programs, supporting new revenue opportunities and strengthening client data maturity
+Business Analyst	     May 2021 – July 2022
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India
+Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable technology solutions
+Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational visibility
+Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory compliance
+Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making
+
+Co-Founder - Startup	    May 2018 – May 2020
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India
+Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing operational costs
+Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery
+
+SKILLS & ACTIVITIES
+
+Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio
+Language: C++, Python, Scikit-learn, SQL
+Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML
+
+
+================================================================================
+FILE: Rushabh Resume.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE 
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led end-to-end Master Data Management (MDM) programs across customer, vendor, material and finance domains using 
+tools like SAP MDG, Reltio and Informatica, improving data accuracy, governance, and enterprise-wide consistency 
+• Designed and deployed Data Lighthouse, a cloud-agnostic, Agentic AI-powered platform to automate data cleansing, 
+enrichment, validation, and governance workflows at scale across multiple clients 
+• Built and managed scalable data pipelines and transformation frameworks using Databricks and cloud platforms (AWS, 
+Azure, GCP), enabling analytics, regulatory reporting, and downstream system integration 
+• Established data governance frameworks, quality rules, and monitoring mechanisms, ensuring compliance, data integrity, 
+and adherence with enterprise data standards 
+• Integrated data across ERP, CRM, claims, and external sources into unified analytics layers and dashboards (Tableau, 
+Power BI), enabling actionable insights for business and leadership teams 
+• Acted as a client-facing engagement lead, driving requirement gathering, solution design, and cross-functional delivery 
+across data engineering, analytics, and business stakeholders 
+• Led AI-driven and digital transformation initiatives, including process automation and M&A data integration, contributing 
+to operational efficiency improvements and supporting $20M+ in new business growth 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Advised life sciences and healthcare clients on digital transformation and Manufacturing 4.0 initiatives, aligning business 
+processes with scalable technology solutions 
+• Led requirement gathering, process analysis, and solution design for enterprise data and analytics programs, collaborating 
+with cross-functional stakeholders 
+• Supported global LIMS implementation across 7+ sites, driving data integration, process standardization, and compliance 
+in regulated environments 
+• Contributed to transformation and M&A initiatives, including gap assessments, target-state design, and stakeholder 
+alignment, while supporting delivery in agile environments 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Developed and implemented a cloud-based logistics and fleet optimization model, enabling last-mile delivery companies 
+to adopt electric vehicles and scale efficiently 
+• Raised and executed a fund utilization plan and financial model for a $400k seed investment 
+ 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML 
+modeling 
+• Domain: BFSI, C&H, Life science, Pharmaceutical, Oil and Gas
+
+
+================================================================================
+FILE: Rushabh Shah Amazon PM.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/ 
+ 
+SUMMARY 
+Technical program and data transformation professional with 5+ years of experience leading cross -functional programs across data, 
+analytics, AI, governance, and enterprise platforms. Experienced in requirements intake, defect triage, release readiness, da ta quality, 
+executive reporting, and delivery across engineering, data, security, and business teams. Led a 15 -member cross-functional team and 
+managed programs involving AWS, Salesforce, SAP, Snowflake, Databricks, SQL, and Python.  
+CORE SKILLS 
+• Technical Program Management: program scoping, roadmaps, dependencies, release schedules, risks, blockers, status reporting 
+• Data and Analytics: SQL, Python, large datasets, data pipelines, data quality, validation, trend analysis, dashboard QA 
+• Enterprise Platforms: AWS, Salesforce, SAP S/4HANA, SAP MDG, Snowflake, Databricks, Tableau, Power BI 
+• Governance and Risk: data controls, issue management, audit readiness, SOX, GDPR, GxP, 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead data, analytics, AI, and governance programs for clients across pharma, healthcare, manufacturing, and energy  
+• Own program delivery from discovery through release. Define scope, build delivery plans, track dependencies, and remove blo ckers 
+across business and technical teams 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. Keep priorities clear 
+and delivery moving across multiple client workstreams 
+• Convert stakeholder feedback and recurring issues into structured backlogs. Use defect logs and root -cause reviews to improve 
+reporting and data workflows 
+• Partner with data engineering teams to validate pipelines, review outputs, and improve data quality across SAP, Salesforce,  
+Snowflake, Databricks, and cloud platforms 
+• Designed and deployed Data Lighthouse, a data quality and governance platform that automated profiling, validation, reconci liation, 
+stewardship, and workflow remediation. Reduced manual effort by ~40% and improved data accuracy by ~30%  
+• Prepare executive updates on program health, open risks, blocked work, key decisions, and upcoming milestones. Help leaders  
+resolve issues before they affect timelines 
+• Implemented governance and MDM controls across customer, vendor, supplier, material, finance, and operational data. Used SA P 
+MDG, Informatica MDM, Reltio, SQL, and Python to reduce duplicate records by ~25%  
+• Applied entity resolution, fuzzy matching, anomaly detection, and exception routing to identify data issues earlier and red uce manual 
+remediation 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported delivery of a global LIMS implementation across 7+ life sciences sites. Owned requirements documentation, issue 
+tracking, UAT support, validation evidence, and go-live readiness 
+• Worked with business users, QA teams, and technical teams to standardize data capture and improve reporting consistency in a 
+regulated environment 
+• Prepared process flows, gap assessments, test evidence, and stakeholder updates to support release decisions and user adopt ion 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven EV logistics platform to improve route planning, cost tracking, fleet utilization, and performance reporting  
+• Led product planning, customer discovery, vendor coordination, and early go -to-market execution for a cloud-enabled operations 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, stewardship,  and AI-assisted 
+remediation. Deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities  
+• D4 Workspace: AI workspace for enterprise search, data profiling, workflow support, self -serve Q&A, and operational automation 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
+
+
+================================================================================
+FILE: Rushabh Shah BI Reporting.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/ 
+ 
+SUMMARY 
+Business intelligence and reporting professional with 5+ years of experience building dashboards, defining KPIs, and 
+improving reporting quality for enterprise clients. Uses SQL, Python, Tableau, Power BI, Snowflake, and Databricks to turn 
+complex data into clear business insights. Leads a 15-member cross-functional team and works closely with business 
+leaders, analysts, and engineers. 
+CORE SKILLS 
+BI & Reporting: Tableau, Power BI, Excel, executive dashboards, operational reporting, self-service reporting 
+Data Analysis: SQL, Python, R, trend analysis, variance analysis, root-cause analysis 
+Reporting Quality: KPI definitions, reconciliation, source-to-report validation, dashboard QA, UAT 
+Data Platforms: Snowflake, Databricks, SAP, Salesforce, AWS, Azure, GCP 
+AI & Automation: Data Lighthouse, automated validation, anomaly detection, entity matching, workflow automation 
+Leadership: requirements workshops, team leadership, stakeholder communication, training, executive presentations 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead BI and reporting engagements across pharma, healthcare, manufacturing, and energy clients. Translate business question s 
+into clear KPIs, dashboards, and recurring reports. 
+• Partner with business leaders and data teams to define metrics and document reporting logic. Resolve differences between so urce 
+systems so users can trust the final numbers. 
+• Build and oversee Tableau and Power BI dashboards on Snowflake and Databricks. Improved reporting speed and reduced data 
+latency by about 25%. 
+• Established reporting controls from source data through dashboard release. These checks reduced dependence on spreadsheets 
+and prevented reporting defects from reaching business users. 
+• Designed and deployed Data Lighthouse to automate data profiling, validation, reconciliation, and stewardship. The platform  
+reduced manual effort by about 40% and improved data accuracy by about 30%.  
+• Use SQL and Python to analyze data from SAP, Salesforce, finance, and operational systems. Identify the drivers behind repo rting 
+gaps, unusual trends, and duplicate records. 
+• Introduced AI-assisted checks that flag anomalies and data mismatches before reports are published. This reduced manual review 
+and helped teams resolve issues earlier. 
+• Manage a 15-member cross-functional team. Set priorities, review outputs, remove delivery blockers, and present findings to client 
+stakeholders. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Gathered reporting requirements for global life sciences clients. Converted business needs into report specifications, valida tion 
+rules, and system changes. 
+• Supported a global LIMS implementation across more than seven sites. Standardized master data and compliance reporting whil e 
+coordinating UAT and issue resolution. 
+• Prepared operational reports and gap analyses that improved visibility into process performance, reporting issues, and data  quality 
+risks. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built operational reporting for route efficiency, cost tracking, fleet utilization, and delivery performance.  
+• Used reporting insights to guide product strategy, financial planning, and early customer decisions.  
+SELECTED PROJECTS 
+Data Lighthouse: Enterprise data quality and reporting platform that improved the reliability of dashboards and downstream 
+analytics. Deployed across more than seven multinational clients and contributed to over $10M in business impact and revenue 
+opportunities. 
+D4 Workspace: Prototype AI workspace that helps users search business data, ask questions, and automate routine reporting checks.  
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah BI.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/ 
+ 
+SUMMARY 
+Business intelligence and data transformation leader with 7+ years of experience building trusted reporting, scalable data foundations, and analytics 
+workflows for enterprise clients. Strong background in SQL, Python, Tableau, Power BI, Snowflake, Databricks, AWS, data quality, KPI standardization, 
+and self-service analytics. Experienced in leading cross-functional teams and partnering with product, engineering, analytics, and senior business 
+stakeholders to turn ambiguous questions into clear measurement frameworks and decision-ready insights. 
+CORE SKILLS 
+• BI Leadership: analytics strategy, KPI standardization, metric governance, reporting roadmaps, stakeholder prioritization 
+• Data Engineering for BI: SQL, Python, ETL/ELT, data modeling, data validation, source-to-target mapping, pipeline QA 
+• Analytics Platforms: Snowflake, Databricks, AWS, SAP, Salesforce, Tableau, Power BI, Advanced Excel 
+• Decision Support: executive dashboards, business reviews, trend analysis, variance analysis, root-cause analysis, adoption tracking 
+• Data Quality & Governance: data profiling, reconciliation, metadata, lineage, master data, stewardship workflows, audit-ready reporting 
+• AI-Enabled Analytics: AI-assisted data quality, anomaly detection, entity matching, workflow automation, self-serve Q&A prototypes 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead BI, reporting, data quality, and AI-enabled analytics programs for clients across pharma, healthcare, manufacturing, and energy. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. Set priorities, remove blockers, and 
+keep delivery aligned with business outcomes. 
+• Partner with business leaders, product owners, data engineers, and analysts to define KPIs, reporting requirements, metric logic, and success 
+measures for enterprise dashboards. 
+• Build trusted reporting foundations across SAP, Salesforce, Snowflake, Databricks, and cloud data platforms. Improve reporting speed by ~25% 
+through cleaner pipelines and reusable datasets. 
+• Own dashboard delivery from intake to release. Translate ambiguous requests into scoped requirements, validation checks, UAT plans, and 
+executive-ready reporting outputs. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, validation, reconciliation, enrichment, stewardship, 
+and workflow automation. Reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Implemented data quality rules, reconciliation checks, and exception reporting across customer, vendor, supplier, material, finance, and 
+operational data. Reduced duplicate records by ~25%. 
+• Used SQL and Python for data profiling, duplicate detection, entity matching, anomaly checks, and reporting validation. Improved trust in 
+downstream BI and analytics outputs. 
+• Create leadership updates on dashboard health, data defects, open risks, milestone progress, and business impact. Help stakeholders make 
+decisions with clear and reliable reporting. 
+• Supported AI-enabled analytics work through anomaly detection, automated exception routing, and self-serve Q&A prototypes that reduced 
+manual review effort. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported reporting and data transformation work for global life sciences clients in regulated environments. 
+• Contributed to a global LIMS implementation across 7+ sites. Owned requirements documentation, issue tracking, UAT support, validation 
+evidence, and go-live readiness. 
+• Worked with business users, QA teams, and technical teams to standardize data capture and improve reporting consistency. 
+• Prepared process flows, gap assessments, test evidence, and stakeholder updates to support release decisions and adoption of new enterprise 
+workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a EV logistics platform to improve route planning, cost tracking, fleet utilization, and performance reporting. 
+• Led product planning, customer discovery, vendor coordination, and early go-to-market execution for a cloud-enabled operations model. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and analytics platform for validation, reconciliation, stewardship, reporting trust, and AI-assisted 
+remediation. Deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• D4 Workspace: AI workspace for enterprise search, data profiling, workflow support, self-serve Q&A, and operational automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
+
+
+================================================================================
+FILE: Rushabh Shah Data Governance.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/ 
+ 
+SUMMARY 
+Data governance and delivery leader with experience building practical governance frameworks across regulated industries. 
+Established ownership models, stewardship processes, policies, and data quality controls that improved reporting trust and audit 
+readiness. Leads cross-functional delivery across data engineering, analytics, AI/ML, and business teams. 
+CORE CAPABILITIES 
+Governance Frameworks: Built operating models based on DAMA-DMBOK principles. Defined ownership, stewardship, decision rights, and 
+governance forums. 
+Policies and Compliance: Developed standards for data quality, metadata, lineage, classification, access, retention, and issue management. 
+Supported GDPR, SOX, GxP, and ISO-aligned controls. 
+Data Delivery and Risk: Managed intake, prioritization, dependencies, quality gates, release readiness, and downstream impact reviews 
+across data programs. 
+MDM and Data Quality: Led customer, vendor, supplier, material, and finance data initiatives. Improved master data quality through business 
+rules, validation, and remediation workflows. 
+Platforms and Tools: Snowflake, Databricks, Collibra, SAP S/4HANA, SAP MDG, Informatica MDM, Reltio, Stibo, Salesforce, Tableau, 
+Power BI, AWS, Azure, GCP, Jira, Confluence 
+Analytics and Automation: SQL, Python, R, LLM, OpenAI, Claude, Copilot, RAG, Power Apps, Agentic AI 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead data governance engagements for clients across pharma, healthcare, manufacturing, and energy. Help leaders define governance 
+priorities, ownership, and adoption plans that fit how their teams operate. 
+• Built governance operating models aligned with DAMA-DMBOK principles. Clarified the responsibilities of data owners, stewards, 
+custodians, and delivery teams across business domains. 
+• Developed policies and standards for data quality, metadata, lineage, classification, access, retention, and issue management. Supported 
+control alignment with GDPR, SOX, GxP, and ISO requirements. 
+• Established governance councils and domain working groups. These forums approved standards, resolved ownership gaps, reviewed 
+quality issues, and tracked remediation actions. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform that automated profiling, validation, reconciliation, and 
+stewardship workflows. It reduced manual effort by about 40% and improved data accuracy by about 30%. 
+• Implemented MDM and quality controls across customer, vendor, supplier, material, finance, and operational data. Used SAP MDG, 
+Informatica MDM, Reltio, Snowflake, Databricks, SQL, and Python to reduce duplicate records by about 25%. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. Set priorities, remove 
+delivery blockers, and keep stakeholders aligned across multiple client workstreams. 
+• Review the downstream impact of source-system, schema, pipeline, and reporting changes. Coordinate testing and business sign-off before 
+production release. 
+• Provide leaders with clear updates on governance adoption, open risks, data issues, and remediation progress. Bring unresolved decisions 
+into planning cycles before they affect delivery. 
+• Applied entity resolution, fuzzy matching, anomaly detection, and automated issue routing to identify data problems earlier and reduce 
+manual remediation. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported data governance and digital transformation programs for global life sciences clients. Improved reporting consistency and 
+operational visibility across regulated environments. 
+• Defined master data standards and validation controls for a global LIMS implementation across more than seven sites. Supported UAT, 
+issue tracking, and compliance reporting. 
+• Performed data gap assessments and business rule reviews. Worked with business and technical teams to resolve data issues and improve 
+governance maturity. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven logistics platform for route planning, cost tracking, and fleet performance reporting. 
+• Led product strategy, financial planning, stakeholder discovery, and delivery for a cloud-enabled fleet operations model. 
+SELECTED PROJECTS 
+Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, stewardship, and reporting trust. Deployed 
+across more than seven multinational clients and contributed to over $10M in business impact and revenue opportunities. 
+Enterprise Data Governance Operating Model: Created a reusable governance framework covering ownership, stewardship, policies, issue 
+management, governance forums, delivery controls, and executive reporting across multiple data domains. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah FDE.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Forward Deployed Data & AI Engineer with 7+ years of experience building client -facing AI, data quality, and workflow automation 
+solutions. Strong hands-on background in Python, SQL, RAG, agentic workflows, APIs, CI/CD concepts, Snowflake, Databricks, and cloud 
+platforms. Known for moving ambiguous business problems into working prototypes, tested deployments, user adoption plans, and  
+measurable outcomes. 
+CORE SKILLS 
+• Forward Deployed Engineering: client discovery, workflow mapping, rapid prototyping, demos, rollout planning, adoption trac king 
+• AI Engineering: LLM apps, RAG pipelines, vector search, prompt design, agent orchestration, MCP, A2A, human review  
+• Build & Deploy: Python, SQL, Git, GitHub, CI/CD concepts, Docker concepts, APIs, FastAPI , production readiness 
+• Data Platforms: Snowflake, Databricks, SAP, Salesforce, SharePoint, Informatica MDM, Reltio, Tableau, Power BI  
+• Cloud & Integration: AWS, Azure, GCP, ERP/CRM data, access controls, data security, integration testing, release support  
+• Quality & Governance: data profiling, reconciliation, validation rules, MDM, lineage, UAT, audit -ready documentation 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Led a 15-member team across AI/ML, data engineering, analytics, and business functions  and embedded with client teams to turn 
+unclear AI and data problems into working prototypes, delivery plans, and production -ready workflows. 
+• Run technical discovery for AI use cases. Map users, source systems, permissions, success metrics, and deployment risks bef ore build. 
+• Designed and deployed Data Lighthouse for profiling, validation, reconciliation, enrichment, stewardship, and automated rem ediation. 
+Reduced manual effort by ~40% and improved data accuracy by ~30%.  
+• Built RAG-based assistants that search SAP, Salesforce, SharePoint, cloud data, policy documents, and operating guides through 
+natural language. 
+• Developed agentic workflow patterns using MCP and A2A concepts for data profiling, anomaly review, exception routing, and 
+governance tasks. 
+• Used Python, SQL, Snowflake, and Databricks to profile source data, build validation logic, reconcile exceptions, and prepa re AI-ready 
+datasets. 
+• Defined build-to-release steps for AI prototypes, including backlog items, test cases, UAT scripts, IAM, and CI/CD-ready handoffs. 
+• Partnered with architects and data engineers on API needs, security constraints, cloud access, logging, failure scenarios, and release 
+readiness. 
+• Created executive demos, adoption playbooks, and training materials to improve trust in AI-enabled workflows and outputs. 
+• Implemented MDM controls for customer, vendor, supplier, material, finance, and operations data using SAP MDG, Informatica MDM, 
+Reltio, SQL, and Python. 
+• Supported AI opportunity assessments and client demos across 7+ multinational clients. Contributed to $10M+ in business impac t and 
+revenue opportunities. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Worked with life sciences users to gather requirements, map workflows, document gaps, and support the deployment of enterprise 
+data solutions. 
+• Supported a global LIMS implementation across 7+ sites. Coordinated UAT, defect tracking, validation , and production readiness. 
+• Converted user feedback into process flows, test scenarios, reporting requirements, and release documents for technical and  QA 
+teams. 
+• Improved operational visibility by standardizing data capture rules and reporting logic in a regulated environment.  
+• Prepared go-live materials and stakeholder updates so non-technical users could adopt new workflows with lower support burden.  
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a technology-enabled logistics platform for route planning, fleet utilization, cost tracking, and operational reporting.  
+• Translated field feedback from delivery operators into product requirements for trip planning, driver assignment, and cost visibility. 
+• Worked with technical partners to test workflows, review usability, and improve reporting before customer rollout.  
+• Led product planning, vendor coordination, customer discovery, and early go -to-market execution for a cloud-enabled operations 
+model. 
+SELECTED PROJECTS 
+• Data Lighthouse: AI-powered data quality platform for profiling, enrichment, validation, reconciliation, stewardship, and remediation. 
+Deployed across 7+ clients and linked to $10M+ in impact. 
+• D4 Workspace: Forward-deployed AI workspace in production to automate manufacturing processes. 
+• Enterprise AI Assistants: Built assistant concepts that connect business users to ERP, CRM, SharePoint, cloud data, and reporting 
+workflows through natural language. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 | Aug 2022 - May 2023 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist | Jun 2019 - Apr 2021 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy | May 2014 - May 2018 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
+
+
+================================================================================
+FILE: Rushabh Shah GSM.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Supply chain data and technical program leader with experience improving procurement, supplier, vendor, finance, and operational data across 
+enterprise environments. Skilled at turning demand and supply signals into clear priorities, dashboards, and action plans. Strong background in AWS, 
+SQL, Python, SAP, Salesforce, Snowflake, Databricks, supplier master data, data quality, and cross-functional delivery. 
+CORE SKILLS 
+• Supply Planning: supply commits, demand alignment, capacity tracking, shortage resolution, delivery risk management, and supply readiness 
+• S&OP and Business Planning: demand reviews, supply gap analysis, forecast support and planning inputs 
+• Data-Driven Supply Management: SQL, Python, Excel modeling, dashboard development, trend analysis, variance tracking, and root-cause analysis 
+• AWS & Enterprise Platforms: AWS, SAP S/4HANA, SAP MDG, Salesforce, Snowflake, Databricks, Tableau, Power BI, Informatica MDM, and Reltio 
+• Program & Stakeholder Leadership: cross-functional delivery, milestone tracking, risk reporting, business reviews and stakeholder alignment 
+• Data Quality & Automation: supplier master data, data validation, duplicate detection, reconciliation, exception reporting, and workflow automation 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead data, analytics, AI, and governance programs for clients across pharma, healthcare, manufacturing, and energy. Support teams that depend on 
+reliable supplier, material, finance, and operational data 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. Keep priorities clear and delivery 
+moving across multiple client workstreams 
+• Partner with procurement, finance, operations, and IT stakeholders to improve supplier and vendor data. Focus areas include onboarding fields, 
+duplicate prevention, payment terms, ownership, and reporting accuracy 
+• Build dashboards and executive updates that show program health, open risks, blocked work, key decisions, and upcoming milestones. Help leaders 
+make tradeoffs before issues affect timelines 
+• Use SQL and Python to profile high-volume ERP, CRM, procurement, and reporting data. Identify gaps, reconcile mismatched records, and support 
+cleaner downstream analytics 
+• Designed and deployed Data Lighthouse, a data quality and governance platform that automated profiling, validation, reconciliation, stewardship, 
+and workflow remediation. Reduced manual effort by ~40% and improved data accuracy by ~30% 
+• Implemented MDM and governance controls across customer, vendor, material, finance, and operational data. Used SAP MDG, Informatica MDM, 
+Reltio, Snowflake, Databricks, SQL, and Python to reduce duplicate records by ~25% 
+• Applied entity resolution, fuzzy matching, anomaly detection, and exception routing to identify data issues earlier. Reduced manual remediation 
+and improved confidence in reporting outputs 
+• Established repeatable delivery practices using intake forms, defect logs, UAT plans, root-cause reviews, and release checklists. Improved visibility 
+across fast-moving workstreams 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported technical delivery for a global LIMS implementation across 7+ life sciences sites. Owned requirements documentation, issue tracking, 
+UAT support, validation evidence, and go-live readiness 
+• Worked with business users, QA teams, and technical teams to standardize data capture. Improved reporting consistency and reduced process gaps 
+in a regulated environment 
+• Prepared process flows, gap assessments, test evidence, and stakeholder updates. Helped teams make release decisions and adopt new enterprise 
+workflows 
+• Supported data governance and master data activities tied to system implementation. Documented business rules, data ownership, and reporting 
+requirements for cross-site adoption 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built an EV logistics platform to improve route planning, cost tracking, fleet utilization, and performance reporting for last-mile delivery operations 
+• Led product planning, customer discovery, vendor coordination, and early go-to-market execution. Balanced customer demand, operating costs, 
+and delivery capacity while building the business model 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, stewardship, and AI-assisted remediation. Deployed 
+across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities 
+• Supplier / Vendor Data Quality Framework: Reusable controls for supplier identity, duplicate detection, required fields, enrichment, stewardship 
+queues, and ERP/MDM reporting validation 
+• D4 Workspace: Agentic AI workspace for S&OP management 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
+
+
+================================================================================
+FILE: Rushabh Shah OpenAI Deployment Manager.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Client facing AI and data transformation consultants with 7+ years of experience helping enterprise teams adopt new tools, improve workflows, and 
+measure business value. Experienced in running workshops, scoping use cases, building enablement materials, tracking adoption, and turning 
+feedback into clear next steps. Led a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. 
+CORE COMPETENCIES 
+• AI Adoption & Enablement: use case discovery, workshop facilitation, training, office hours, adoption tracking, success metrics, executive readouts 
+• Customer Delivery: stakeholder alignment, roadmap planning, requirements gathering, issue tracking, change management, UAT, production 
+readiness 
+• AI & Data Tools: ChatGPT Enterprise, Agents, LLM workflows, RAG, AI assistants, prompt design, SQL, Python, Snowflake, Databricks, Tableau, Power 
+BI 
+• Enterprise Systems: SAP, Salesforce, SharePoint, ERP/CRM data, AWS, Azure, GCP, Vertex AI, data access, data quality, validation, integrations 
+• Leadership: cross-functional team leadership, risk management, executive communication, documentation, playbooks, demos, client presentations 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead client-facing AI, data, and digital transformation engagements across pharma, healthcare, manufacturing, and energy clients, helping teams 
+move from broad interest to practical adoption plans. 
+• Run discovery workshops with business leaders and working teams to identify high-value use cases, define success metrics, map workflows, and 
+create clear next steps for AI and automation initiatives. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating priorities, risks, 
+stakeholder updates, and delivery across multiple workstreams. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, enrichment, validation, reconciliation, 
+stewardship, and workflow automation; reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Built AI assistant and RAG-based workflow prototypes for enterprise search, knowledge access, data analysis, and process support across SAP, 
+Salesforce, SharePoint, cloud platforms, and business documents. 
+• Create enablement materials, including use case backlogs, adoption playbooks, training content, validation checklists, requirements documents, 
+executive summaries, and decision-ready readouts. 
+• Partner with executives, business users, architects, engineers, and data owners to work through practical constraints around data access, security, 
+integrations, data quality, competing tools, and readiness for rollout. 
+• Supported business growth through client demos, AI opportunity assessments, transformation roadmaps, and data maturity reviews that helped 
+clients understand where AI could create measurable value. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported client-facing digital and data transformation programs for life sciences clients, gathering requirements, mapping processes, and 
+translating business needs into system functionality and reporting outputs. 
+• Played a key role in a global LIMS implementation across 7+ sites, supporting user coordination, issue tracking, UAT, process standardization, 
+validation documentation, and production readiness. 
+• Prepared process flows, gap assessments, reporting requirements, training inputs, and stakeholder-ready materials to improve operational visibility 
+and adoption of new enterprise workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Co-founded a data-driven EV logistics startup and led customer discovery, product strategy, financial planning, and early go-to-market execution for 
+a cloud-enabled fleet optimization solution. 
+• Worked directly with last-mile delivery stakeholders to understand operational pain points, define product requirements, and build a practical 
+solution for route efficiency and cost reduction. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, enrichment, stewardship, reporting trust, and 
+AI/ML-ready datasets; deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• D4 Workspace: Prototype AI workspace for enterprise search, RAG-based Q&A, workflow support, data profiling, reconciliation, and operational 
+automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah OpenAI Deployment.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Client-facing AI and data transformation consultant with 7+ years of experience leading enterprise pilots, POCs, enablement programs, and adoption 
+workstreams. Experienced in scoping high-value AI use cases, defining success criteria, running workshops and office hours, managing stakeholders, 
+and turning pilot learnings into executive-ready recommendations. Led a 15-member cross-functional team across data engineering, analytics, AI/ML, 
+and business functions. 
+CORE COMPETENCIES 
+• AI Pilot Delivery: pilot scoping, use case prioritization, success metrics, adoption tracking, business value measurement 
+• Customer Enablement: discovery workshops, workflow coaching, training materials, playbooks, stakeholder alignment, change management 
+• AI & Data Tools: ChatGPT Enterprise concepts, LLM workflows, RAG, AI assistants, prompt design, SQL, Python, Snowflake, Databricks, Tableau, 
+Power BI, Informatica, Open AI, Claude, Copilot, LLMs 
+• Enterprise Systems: SAP, Salesforce, SharePoint, ERP/CRM data, AWS, Azure, GCP, Vertex AI 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead client-facing AI, data, and digital transformation engagements across pharma, healthcare, manufacturing, and energy clients, helping 
+stakeholders move from broad AI interest to practical pilots and adoption plans. 
+• Own pilot-style workstreams from discovery through readout, including use case selection, success criteria, workflow mapping, enablement 
+sessions, adoption tracking, issue logs, and recommendations for next steps. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating delivery priorities, risks, 
+stakeholder alignment, and execution across multiple client workstreams. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, enrichment, validation, reconciliation, 
+stewardship, and workflow automation; reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Built AI assistant and RAG-based workflow prototypes for enterprise search, knowledge access, data analysis, and process support across SAP, 
+Salesforce, SharePoint, cloud platforms, and business documentation. 
+• Created pilot materials such as use case backlogs, adoption playbooks, requirements documents, validation checklists, training content, executive 
+summaries, and decision-ready readouts for clients and internal leaders. 
+• Partner with executives, business users, architects, engineers, and data owners to navigate constraints around data access, security, integrations, 
+data quality, competing tools, and operational readiness. 
+• Supported business growth through client demos, AI opportunity assessments, transformation roadmaps, and data maturity reviews that helped 
+clients understand where AI could create measurable value. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported client-facing digital and data transformation programs for life sciences clients, gathering requirements, mapping processes, and 
+translating business needs into system functionality and reporting outputs. 
+• Played a key role in a global LIMS implementation across 7+ sites, supporting user coordination, issue tracking, UAT, process standardization, 
+validation documentation, and production readiness. 
+• Prepared process flows, gap assessments, reporting requirements, training inputs, and stakeholder-ready materials to improve operational visibility 
+and adoption of new enterprise workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Co-founded a data-driven EV logistics startup and led customer discovery, product strategy, financial planning, and early go-to-market execution for 
+a cloud-enabled fleet optimization solution. 
+• Worked directly with last-mile delivery stakeholders to understand operational pain points, define product requirements, and build a practical 
+solution for route efficiency and cost reduction. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, enrichment, stewardship, reporting trust, and 
+AI/ML-ready datasets; deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• D4 Workspace: Prototype AI workspace for enterprise search, RAG-based Q&A, workflow coaching, data profiling, reconciliation, and operational 
+automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah OpenAI FinanceDQ.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Data quality and transformation leader with 7+ years of experience improving financial and enterprise data reliability across billing, 
+revenue, customer, vendor, finance, and operational reporting domains. Led a 15 -member cross-functional team across data 
+engineering, analytics, AI/ML, and business functions. Experienced in improving data quality using AI to streamline data operations, 
+and working closely with Finance, GTM, operations, and engineering teams.  
+CORE COMPETENCIES 
+• Financial Data Quality: Cost Center, Profit Center, General Ledger, Trading Partner, Intercompany customer vendor, order-to-cash workflows, 
+customer/vendor master data, and audit readiness based on ISO and GDPR standards 
+• Data Reliability: validation rules, completeness checks, freshness monitoring, exception reporting, lineage, metadata, source-to-target mapping, 
+root-cause analysis 
+• AI & Automation: LLMs, Generative AI, RAG, AI assistants, agentic workflows, prompt engineering, semantic search, vector search, entity 
+resolution, intelligent matching, anomaly detection, AI-enabled data enrichment 
+• Platforms & Tools: SQL, Python, Snowflake, Databricks, AWS, Azure, GCP, Vertex AI, Azure OpenAI, AWS Bedrock, SAP S/4HANA, SAP MDG, 
+Salesforce, Informatica MDM, Reltio, Tableau, Power BI 
+• Leadership: team leadership, roadmap planning, stakeholder management, production readiness, executive communication 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead enterprise data quality, MDM, governance, and AI-enabled transformation programs across regulated clients, including finance-related 
+domains such as customer, vendor, billing, revenue, cost center, GL, and operational reporting data. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating data defects, delivery 
+priorities, stakeholder alignment, production readiness, and risk resolution across multiple workstreams. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, enrichment, validation, reconciliation, 
+stewardship, and workflow automation; reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Built finance-focused data quality controls for accuracy, completeness, consistency, and freshness, including reconciliation logic, exception 
+reporting, validation checks, metadata standards, lineage tracking, and business sign-off workflows. 
+• Implemented domain models and MDM frameworks across customer, vendor, material, supplier, finance, and operational datasets using SAP 
+MDG, Informatica MDM, Reltio, Snowflake, Databricks, SQL, and Python; reduced duplicate records by ~25%. 
+• Developed governed data pipelines and reporting foundations across AWS, Azure, and GCP, integrating SAP, Salesforce, ERP/CRM, finance, 
+operational, and external datasets to reduce reporting latency by ~25%. 
+• Partner with Finance, GTM, data owners, architects, and engineering teams to standardize metrics, define trusted reporting requirements, and 
+deliver dashboards, curated datasets, extracts, and API-ready data products. 
+• Applied AI/ML techniques, including entity resolution, intelligent matching, anomaly detection, data enrichment, RAG-based knowledge search, 
+and workflow automation to improve data remediation and operational productivity. 
+• Supported system modernization and source consolidation by mapping source-to-target data flows, validating migration outputs, identifying 
+control gaps, and reducing reliance on manual spreadsheets and external remediation processes. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported life sciences data and systems transformation programs, gathering requirements, mapping processes, documenting controls, and 
+translating business needs into system functionality, reporting outputs, and validation documentation. 
+• Played a key role in a global LIMS implementation across 7+ sites, supporting process standardization, regulated data capture, issue tracking, UAT 
+coordination, and production readiness. 
+• Prepared process flows, gap assessments, reporting requirements, and stakeholder-ready materials to improve data quality, operational visibility, 
+and adoption of new enterprise workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven EV logistics platform for route optimization, cost tracking, utilization visibility, and fleet performance reporting. 
+• Led product strategy, financial planning, stakeholder discovery, and early go-to-market execution for a cloud-enabled fleet operations model. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, enrichment, stewardship, reporting trust, and 
+AI/ML-ready datasets; deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• D4 Workspace: Agentic AI workspace to manage finance supporting enterprise search, RAG-based Q&A, data profiling, reconciliation, and 
+operational workflow automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah OpenAI IT Support.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Client-facing technical support and data operations professional with 7+ years of experience resolving complex user, system, workflow, 
+and reporting issues across enterprise environments. Known for clear communication with technical and non -technical stakeholders, 
+structured troubleshooting, process documentation, and improving support workflows. Led a 15 -member cross-functional team across 
+data engineering, analytics, AI/ML, and business functions. 
+CORE COMPETENCIES 
+• Technical Support: user support, issue triage, root-cause analysis, escalation management, documentation 
+• IT & Enterprise Tools: macOS/Windows working knowledge, Google Workspace, Microsoft 365, Slack, Atlassian/Jira workflows, SharePoint, 
+Salesforce, SAP 
+• Platforms & Automation: SQL, Python, Snowflake, Databricks, AWS, Azure, GCP, Vertex AI, Azure OpenAI, AWS Bedrock, Tableau, Power BI 
+• Customer Experience: stakeholder communication, onboarding support, training materials, vendor coordination, process improvement, executive-
+ready updates, IAM, System Integration 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Support enterprise clients by troubleshooting data, access, workflow, reporting, and integration issues across SAP, Salesforce, SharePoint, 
+Snowflake, Databricks, Tableau, Power BI, and cloud-based environments. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating priorities, support 
+issues, risk resolution, stakeholder updates, and production readiness across multiple workstreams. 
+• Built repeatable support and delivery workflows, including issue logs, validation checklists, runbooks, UAT plans, escalation paths, training materials, 
+and executive summaries to improve clarity and reduce rework. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, enrichment, validation, reconciliation, 
+stewardship, and workflow automation; reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Partner with business users, IT/platform teams, data owners, engineers, and vendors to diagnose root causes, document requirements, validate 
+fixes, and communicate timelines in a clear, customer-focused way. 
+• Developed governed data pipelines and reporting foundations across AWS, Azure, and GCP, integrating SAP, Salesforce, ERP/CRM, operational, 
+finance, and external datasets to reduce reporting latency by ~25%. 
+• Applied AI/ML techniques, including entity resolution, intelligent matching, anomaly detection, data enrichment, RAG-based knowledge search, and 
+workflow automation to improve remediation and operational productivity. 
+• Supported system modernization and source consolidation by mapping source-to-target data flows, validating migration outputs, identifying control 
+gaps, and reducing reliance on manual spreadsheets and external remediation processes. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported life sciences digital transformation programs by gathering requirements, mapping processes, documenting controls, and translating 
+business needs into system functionality, reporting outputs, and validation documentation. 
+• Played a key role in a global LIMS implementation across 7+ sites, supporting user coordination, issue tracking, UAT, process standardization, 
+regulated data capture, and production readiness. 
+• Prepared process flows, gap assessments, reporting requirements, training inputs, and stakeholder-ready materials to improve operational visibility 
+and adoption of new enterprise workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven EV logistics platform for route optimization, cost tracking, utilization visibility, and fleet performance reporting. 
+• Led product strategy, financial planning, customer discovery, vendor coordination, and early go-to-market execution for a cloud-enabled fleet 
+operations model. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, enrichment, stewardship, reporting trust, and 
+AI/ML-ready datasets; deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• D4 Workspace: Prototype AI workspace for enterprise search, RAG-based Q&A, data profiling, reconciliation, and operational workflow automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah OpenAI Supplier Master.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Master data and procurement data professional with 5+ years of experience improving supplier, vendor, customer, finance, and operational data 
+across regulated enterprise environments. Strong background in supplier master data, P2P controls, data quality rules, duplicate prevention, 
+stewardship, reporting accuracy, and AI-enabled data operations. Led a 15-member cross-functional team across data engineering, analytics, AI/ML, 
+and business functions. 
+CORE COMPETENCIES 
+• Supplier & P2P Data: supplier/vendor master data, onboarding, banking/payment terms, tax fields, addresses, contacts, procurement data, 
+duplicate prevention, supplier risk inputs 
+• Data Governance: data ownership, stewardship workflows, approval controls, data quality rules, metadata, lineage, audit readiness, policy 
+alignment 
+• MDM & Procurement Tools: SAP MDG, SAP S/4HANA, SAP Ariba, Coupa, Informatica MDM, Reltio, Stibo, Collibra, Salesforce, Snowflake, Databricks 
+• AI & Automation: SQL, Python, data profiling, reconciliation, exception reporting, entity matching, fuzzy matching, anomaly detection, AI-assisted 
+enrichment, workflow automation 
+• Reporting & Delivery: Tableau, Power BI, source-to-target mapping, UAT, issue triage, documentation, stakeholder management, executive 
+communication 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead enterprise MDM, data governance, supplier data quality, and automation programs across regulated clients, including supplier, vendor, 
+customer, material, finance, and operational data domains. 
+• Implemented supplier/vendor MDM and governance frameworks using SAP MDG, Informatica MDM, Reltio, Stibo, Snowflake, Databricks, SQL, and 
+Python; reduced duplicate records by ~25% and improved data consistency. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, enrichment, validation, reconciliation, 
+stewardship, and workflow automation; reduced manual effort by ~40% and improved data accuracy by ~30%. 
+• Built supplier and P2P data controls for onboarding, required fields, tax and payment details, duplicate detection, enrichment, exception reporting, 
+business approvals, and issue resolution workflows. 
+• Managed a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating priorities, data 
+defects, stakeholder alignment, risks, and production readiness across multiple workstreams. 
+• Developed governed data pipelines and reporting foundations across AWS, Azure, and GCP, integrating SAP, Salesforce, ERP/CRM, procurement, 
+finance, operational, and external datasets to reduce reporting latency by ~25%. 
+• Partnered with procurement, finance, IT, data owners, and engineering teams to document requirements, standardize supplier data definitions, 
+validate outputs, and improve downstream reporting and analytics. 
+• Applied AI/ML techniques including entity resolution, fuzzy matching, anomaly detection, supplier enrichment, RAG-based knowledge search, and 
+workflow automation to improve master data quality and reduce manual remediation. 
+• Supported P2P system modernization and source consolidation by mapping source-to-target data flows, validating migration outputs, identifying 
+control gaps, and reducing reliance on spreadsheets and manual fixes. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported enterprise data governance and digital transformation initiatives for global life sciences clients, improving reporting consistency and 
+operational visibility. 
+• Gathered and translated requirements for MDM, data quality, and governance programs while supporting scalable enterprise data solutions in 
+regulated environments. 
+• Contributed to a global LIMS implementation across 7+ sites by supporting master data standardization, validation documentation, issue tracking, 
+UAT, and compliance reporting. 
+• Performed data gap analysis, business rule validation, process optimization, and stakeholder coordination to improve data integrity and governance 
+maturity. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven EV logistics platform for route optimization, cost tracking, utilization visibility, and fleet performance reporting. 
+• Led product strategy, financial planning, stakeholder discovery, and early go-to-market execution for a cloud-enabled fleet operations model. 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, enrichment, stewardship, reporting trust, and 
+AI/ML-ready datasets; deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities. 
+• Supplier / Vendor Data Quality Framework: Reusable checks for supplier identity, duplicate detection, mandatory fields, banking/payment data, tax 
+fields, enrichment, stewardship queues, and reporting validation across ERP and MDM environments. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy
+
+
+================================================================================
+FILE: Rushabh Shah PM.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/ 
+ 
+SUMMARY 
+Technical program and data transformation professional with 5+ years of experience leading cross -functional programs across data, 
+analytics, AI, governance, and enterprise platforms. Experienced in requirements intake, defect triage, release readiness, da ta quality, 
+executive reporting, and delivery across engineering, data, security, and business teams. Led a 15 -member cross-functional team and 
+managed programs involving AWS, Salesforce, SAP, Snowflake, Databricks, SQL, and Python.  
+CORE SKILLS 
+• Technical Program Management: program scoping, roadmaps, dependencies, release schedules, risks, blockers, status reporting 
+• Data and Analytics: SQL, Python, large datasets, data pipelines, data quality, validation, trend analysis, dashboard QA 
+• Enterprise Platforms: AWS, Salesforce, SAP S/4HANA, SAP MDG, Snowflake, Databricks, Tableau, Power BI 
+• Governance and Risk: data controls, issue management, audit readiness, SOX, GDPR, GxP, 
+• Ways of Working: Agile delivery, UAT, requirements workshops, design documents, executive updates, cross-functional leadership 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Lead technical programs across data governance, analytics, AI, and enterprise systems for clients in pharma, healthcare, 
+manufacturing, and energy. 
+• Own delivery from scoping to release by defining requirements, building work plans, tracking dependencies, and resolving bl ockers 
+across engineering, data, security, and business teams. 
+• Manage a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions. Keep priorities, risks, 
+decisions, and production readiness visible across multiple workstreams.  
+• Collect stakeholder feedback and convert recurring issues into structured backlogs. Use defect logs, root -cause analysis, and release 
+checklists to improve existing reporting and data workflows. 
+• Partner with data engineers and analysts to validate pipelines, review outputs, and improve data quality across SAP, Salesf orce, 
+Snowflake, Databricks, and cloud-based reporting platforms. 
+• Designed and deployed Data Lighthouse, a data quality and governance platform for profiling, cleansing, validation, reconci liation, 
+stewardship, and workflow automation. Reduced manual effort by ~40% and improved data accuracy by ~30%.  
+• Built executive-ready updates covering program status, open risks, blocked work, delivery milestones, and business impact. Helped 
+leaders make tradeoffs and resolve issues early. 
+• Implemented governance and MDM controls across customer, vendor, supplier, material, finance, and operational data using SA P 
+MDG, Informatica MDM, Reltio, SQL, and Python. Reduced duplicate records by ~25%.  
+• Applied entity resolution, fuzzy matching, anomaly detection, and exception routing to identify data issues earlier and red uce manual 
+remediation. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Supported technical delivery for a global LIMS implementation across 7+ life sciences sites, including requirements, issue tracking, 
+UAT, validation documentation, and go-live readiness. 
+• Worked with business users, QA teams, and technical teams to standardize data capture, improve reporting consistency, and c lose 
+process gaps in regulated environments. 
+• Prepared process flows, gap assessments, test evidence, and stakeholder updates to support release decisions and adoption of new 
+enterprise workflows. 
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a data-driven EV logistics platform for route optimization, cost tracking, fleet utilization, and performance reporting.  
+• Led product planning, stakeholder discovery, vendor coordination, and early go -to-market execution for a cloud-enabled operations 
+SELECTED PROJECTS 
+• Data Lighthouse: Enterprise data quality and governance platform for validation, reconciliation, stewardship,  and AI-assisted 
+remediation. Deployed across 7+ multinational clients and contributed to $10M+ in business impact and revenue opportunities.  
+• D4 Workspace: AI workspace for enterprise search, data profiling, workflow support, self -serve Q&A, and operational automation. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
+
+
+================================================================================
+FILE: Shah_Rushabh_Resume_4-6-2026.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE 
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led enterprise AI and data transformation initiatives across pharma, healthcare, and oil & gas clients, improving data 
+reliability, decision-making, and operational efficiency 
+• Designed and deployed Data Lighthouse, an AI-powered data platform enabling automated data cleansing, enrichment, and 
+governance, reducing manual effort by ~40% and improving data accuracy by ~30% 
+• Established data governance and MDM frameworks across customer, vendor, and material domains, enabling compliant, 
+audit-ready data ecosystems aligned with GDPR and regulated environments (GxP) 
+• Built scalable cloud data solutions (AWS, Azure, GCP) to integrate ERP, CRM, and external data, improving reporting 
+speed and reducing data latency by ~25% 
+• Partnered with business leaders to translate AI opportunities into practical use cases, driving adoption of automation, 
+analytics, and decision-support capabilities 
+• Led cross-functional delivery teams across data engineering, analytics, and business stakeholders, ensuring alignment from 
+strategy through execution 
+• Supported AI/ML-driven initiatives (entity resolution, automation, data enrichment), reducing manual intervention and 
+enabling scalable data operations 
+• Contributed to business growth and transformation programs, supporting new revenue opportunities and strengthening 
+client data maturity 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable 
+technology solutions 
+• Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational 
+visibility 
+• Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory 
+compliance 
+• Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing 
+operational costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML 
+modeling
+
+
+================================================================================
+FILE: Shah_Rushabh_Resume_5-26-26.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE 
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led enterprise AI and data transformation initiatives across pharma, healthcare, and oil & gas clients, improving data 
+reliability, decision-making, and operational efficiency 
+• Designed and deployed Data Lighthouse, an AI-powered data platform enabling automated data cleansing, enrichment, and 
+governance, reducing manual effort by ~40% and improving data accuracy by ~30% 
+• Established data governance and MDM frameworks across customer, vendor, and material domains, enabling compliant, 
+audit-ready data ecosystems aligned with GDPR and regulated environments (GxP) 
+• Built scalable cloud data solutions (AWS, Azure, GCP) to integrate ERP, CRM, and external data, improving reporting 
+speed and reducing data latency by ~25% 
+• Partnered with business leaders to translate AI opportunities into practical use cases, driving adoption of automation, 
+analytics, and decision-support capabilities 
+• Led cross-functional delivery teams across data engineering, analytics, and business stakeholders, ensuring alignment from 
+strategy through execution 
+• Supported AI/ML-driven initiatives (entity resolution, automation, data enrichment), reducing manual intervention and 
+enabling scalable data operations 
+• Contributed to business growth and transformation programs, supporting new revenue opportunities and strengthening 
+client data maturity 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable 
+technology solutions 
+• Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational 
+visibility 
+• Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory 
+compliance 
+• Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing 
+operational costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML 
+modeling
+
+
+================================================================================
+FILE: Shah_Rushabh_Resume_6-2-2026.pdf
+================================================================================
+Rushabh S. Shah                                                                                           rushabh1609rs@gmail.com 
+Boston, MA 02135                                         Phone No: (617) 991-4109                            https://www.linkedin.com/in/rushabh96/  
+ 
+EDUCATION  
+ 
+W. P. Carey School of Business at Arizona State University August 2022 – May 2023 
+Master of Science in Business Analytics (MSBA)                 Tempe, Arizona 
+• Honors: 4 GPA 
+• Relevant Coursework: Enterprise Analytics, Data Mining, Descriptive and Predictive Supply chain Analyst, Data-Driven 
+Quality Management, Analytical decision modeling, Statistics, Business Data Visualization 
+ 
+Narsee Monjee Institute of Management Studies    June 2019 – April 2021 
+Master of Business Administration (MBA)                  Mumbai, India 
+• Honors: 3.54 GPA; Dean’s List, Gold Medalist, and awarded Bayer Scholarship 
+• Relevant Coursework: Statistical analysis, Marketing Research Analytics, Strategic Management and Pricing, Supply chain 
+management, Brand Management, Consumer Behavior, Business Development 
+ 
+Bombay College of Pharmacy at Mumbai University     May 2014 – May 2018 
+Bachelor of Pharmacy                  Mumbai, India 
+• Honors: 6.98 GPA; General Secretary of Student Council 
+ 
+PROFESSIONAL EXPERIENCE   
+  Manager Consultant- SME Business Data Services                                                                                        June 2023 – Present 
+  Genpact LLC                                                                                                                                                    Boston, Massachusetts 
+• Led enterprise AI, data engineering, and transformation initiatives across pharma, healthcare, manufacturing, and oil & gas 
+clients, improving data reliability, reporting speed, and operational decision-making. 
+• Designed and deployed Data Lighthouse, an AI-powered platform for automated data cleansing, enrichment, governance, 
+validation, and workflow automation, reducing manual effort by ~40% and improving data accuracy by ~30%. 
+• Built GenAI and AI/ML-enabled data solutions, including entity resolution, intelligent matching, data enrichment, anomaly 
+detection, and RAG-based knowledge workflows to support scalable data operations. 
+• Developed cloud-native data and analytics solutions across AWS, Azure, and GCP, integrating ERP, CRM, SAP, 
+Salesforce, and external data sources to reduce reporting latency by ~25%. 
+• Supported data ingestion, mapping, transformation, migration, and validation workflows across source and target systems, 
+enabling trusted datasets for analytics, AI/ML use cases, and downstream reporting. 
+• Established data governance, MDM, data quality, lineage, and stewardship frameworks across customer, vendor, material, 
+and operational domains aligned with GDPR and regulated GxP environments. 
+• Led a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, coordinating 
+delivery priorities, risks, stakeholder alignment, and execution across multiple client workstreams. 
+• Partnered with business leaders, architects, data engineers, and product stakeholders to translate supply chain, 
+manufacturing, and enterprise AI opportunities into scalable use cases, MVPs, and implementation roadmaps. 
+Business Analyst      May 2021 – July 2022 
+Cognizant Pvt. Ltd.                                                                                                                                                       Mumbai, India 
+• Supported digital and data transformation programs for life sciences clients, aligning business processes with scalable 
+technology solutions 
+• Led requirement gathering and solution design for enterprise data initiatives, improving reporting accuracy and operational 
+visibility 
+• Played a key role in global LIMS implementation across 7+ sites, enabling standardized processes and regulatory 
+compliance 
+• Conducted process improvement and gap analysis, helping streamline workflows and enhance data-driven decision-making 
+ 
+Co-Founder - Startup     May 2018 – May 2020 
+Trueno Electric Vehicle Pvt. Ltd.                                                                                                                                Mumbai, India 
+• Built a technology-enabled logistics platform to optimize fleet operations, improving route efficiency and reducing 
+operational costs 
+• Led product strategy, financial planning, and execution, enabling scalable adoption of EV solutions in last-mile delivery 
+ 
+SKILLS & ACTIVITIES 
+ 
+• Computer Skills:  Azure, AWS, GCP, SAP, Tableau, Power BI, Databricks, Snowflake, Informatica and Reltio 
+• Language: C++, Python, Scikit-learn, SQL 
+• Gen AI/ Machine Learning: Large Language Models, Agentic AI, prompt engineering, RAG, Knowledge Graphs, ML
+
+
+================================================================================
+FILE: Shah_Rushabh_Resume_6-8-2026.pdf
+================================================================================
+Rushabh S. Shah 
+Boston, MA | (617) 991-4109 | rushabh1609rs@gmail.com | linkedin.com/in/rushabh96/  
+ 
+SUMMARY 
+Forward Deployed Data & AI Engineer with 7+ years of experience building client -facing AI, data quality, and workflow automation 
+solutions. Strong hands-on background in Python, SQL, RAG, agentic workflows, APIs, CI/CD concepts, Snowflake, Databricks, and cloud 
+platforms. Known for moving ambiguous business problems into working prototypes, tested deployments, user adoption plans, and  
+measurable outcomes. 
+CORE SKILLS 
+• Forward Deployed Engineering: client discovery, workflow mapping, rapid prototyping, demos, rollout planning, adoption trac king 
+• AI Engineering: LLM apps, RAG pipelines, vector search, prompt design, agent orchestration, MCP, A2A, human review  
+• Build & Deploy: Python, SQL, Git, GitHub, CI/CD concepts, Docker concepts, APIs, FastAPI , production readiness 
+• Data Platforms: Snowflake, Databricks, SAP, Salesforce, SharePoint, Informatica MDM, Reltio, Tableau, Power BI  
+• Cloud & Integration: AWS, Azure, GCP, ERP/CRM data, access controls, data security, integration testing, release support  
+• Quality & Governance: data profiling, reconciliation, validation rules, MDM, lineage, UAT, audit -ready documentation 
+PROFESSIONAL EXPERIENCE 
+Manager Consultant - SME Business Data Services | Genpact LLC | Boston, MA | Jun 2023 - Present 
+• Led a 15-member team across AI/ML, data engineering, analytics, and business functions  and embedded with client teams to turn 
+unclear AI and data problems into working prototypes, delivery plans, and production -ready workflows. 
+• Run technical discovery for AI use cases. Map users, source systems, permissions, success metrics, and deployment risks bef ore build. 
+• Designed and deployed Data Lighthouse for profiling, validation, reconciliation, enrichment, stewardship, and automated rem ediation. 
+Reduced manual effort by ~40% and improved data accuracy by ~30%.  
+• Built RAG-based assistants that search SAP, Salesforce, SharePoint, cloud data, policy documents, and operating guides through 
+natural language. 
+• Developed agentic workflow patterns using MCP and A2A concepts for data profiling, anomaly review, exception routing, and 
+governance tasks. 
+• Used Python, SQL, Snowflake, and Databricks to profile source data, build validation logic, reconcile exceptions, and prepa re AI-ready 
+datasets. 
+• Defined build-to-release steps for AI prototypes, including backlog items, test cases, UAT scripts, IAM, and CI/CD-ready handoffs. 
+• Partnered with architects and data engineers on API needs, security constraints, cloud access, logging, failure scenarios, and release 
+readiness. 
+• Created executive demos, adoption playbooks, and training materials to improve trust in AI-enabled workflows and outputs. 
+• Implemented MDM controls for customer, vendor, supplier, material, finance, and operations data using SAP MDG, Informatica MDM, 
+Reltio, SQL, and Python. 
+• Supported AI opportunity assessments and client demos across 7+ multinational clients. Contributed to $10M+ in business impac t and 
+revenue opportunities. 
+Business Analyst | Cognizant Pvt. Ltd. | Mumbai, India | May 2021 - Jul 2022 
+• Worked with life sciences users to gather requirements, map workflows, document gaps, and support the deployment of enterprise 
+data solutions. 
+• Supported a global LIMS implementation across 7+ sites. Coordinated UAT, defect tracking, validation , and production readiness. 
+• Converted user feedback into process flows, test scenarios, reporting requirements, and release documents for technical and  QA 
+teams. 
+• Improved operational visibility by standardizing data capture rules and reporting logic in a regulated environment.  
+• Prepared go-live materials and stakeholder updates so non-technical users could adopt new workflows with lower support burden.  
+Co-Founder | Trueno Electric Vehicle Pvt. Ltd. | Mumbai, India | May 2018 - May 2020 
+• Built a technology-enabled logistics platform for route planning, fleet utilization, cost tracking, and operational reporting.  
+• Translated field feedback from delivery operators into product requirements for trip planning, driver assignment, and cost visibility. 
+• Worked with technical partners to test workflows, review usability, and improve reporting before customer rollout.  
+• Led product planning, vendor coordination, customer discovery, and early go -to-market execution for a cloud-enabled operations 
+model. 
+SELECTED PROJECTS 
+• Data Lighthouse: AI-powered data quality platform for profiling, enrichment, validation, reconciliation, stewardship, and remediation. 
+Deployed across 7+ clients and linked to $10M+ in impact. 
+• D4 Workspace: Forward-deployed AI workspace in production to automate manufacturing processes. 
+• Enterprise AI Assistants: Built assistant concepts that connect business users to ERP, CRM, SharePoint, cloud data, and reporting 
+workflows through natural language. 
+EDUCATION 
+• Arizona State University, W. P. Carey School of Business - Master of Science in Business Analytics, GPA 4.0 | Aug 2022 - May 2023 
+• Narsee Monjee Institute of Management Studies - Master of Business Administration, Dean's List, Gold Medalist | Jun 2019 - Apr 2021 
+• Mumbai University, Bombay College of Pharmacy - Bachelor of Pharmacy | May 2014 - May 2018 
+CERTIFICATIONS 
+• AWS Certified Cloud Practitioner | Lean Six Sigma Green Belt | Snowflake Partner Technical Foundations
