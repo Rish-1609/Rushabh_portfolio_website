@@ -30,9 +30,10 @@ export default function EducationPage() {
                   A cross-disciplinary foundation, validated by research.
                 </h1>
                 <p className="mt-5 max-w-2xl text-[15px] leading-relaxed text-muted">
-                  Pharmacy, business, and analytics degrees, peer-reviewed
-                  publications across health equity and the life sciences, and
-                  industry certifications.
+                  Doctoral study in artificial intelligence, graduate training
+                  in business and analytics, peer-reviewed publications across
+                  health equity and the life sciences, and current industry
+                  certifications.
                 </p>
               </Reveal>
             </div>

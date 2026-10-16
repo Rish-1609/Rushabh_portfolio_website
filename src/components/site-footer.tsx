@@ -4,10 +4,9 @@ import { LinkedInIcon } from "@/components/icons";
 import { profile } from "@/data/profile";
 
 const footerNav = [
-  { href: "/work", label: "Work" },
-  { href: "/education", label: "Education" },
-  { href: "/resume", label: "Resume" },
-  { href: "/contact", label: "Get in touch" },
+  { href: "/#expertise", label: "Expertise" },
+  { href: "/#clients", label: "Clients" },
+  { href: "/contact", label: "Contact / Book time" },
 ];
 
 export function SiteFooter() {

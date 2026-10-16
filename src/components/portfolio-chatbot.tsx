@@ -3,6 +3,7 @@
 import { FormEvent, KeyboardEvent, useEffect, useRef, useState } from "react";
 import {
   Bot,
+  CalendarDays,
   FileText,
   Loader2,
   MessageCircle,
@@ -16,6 +17,7 @@ import {
   VolumeX,
   X,
 } from "lucide-react";
+import { profile } from "@/data/profile";
 
 type MessageRole = "assistant" | "user";
 
@@ -63,18 +65,18 @@ type WindowWithSpeechRecognition = Window &
   };
 
 const quickPrompts = [
-  "Why Rushabh for AI solution architecture?",
-  "Which resume fits an AI architect role?",
-  "Summarize his research publications.",
-  "Can he lead data governance programs?",
-  "Compare Rushabh to this job description.",
+  "What is Rushabh's current AI security work?",
+  "Tell me about pharma commercial analytics.",
+  "What work relates to retail analytics?",
+  "Can I request a meeting with Rushabh?",
+  "Summarize his research and education.",
 ];
 
 const welcomeMessage: ChatMessage = {
   id: "welcome",
   role: "assistant",
   content:
-    "Hi, I’m Rushabh’s portfolio assistant. Ask about his AI architecture work, data governance leadership, research, resumes, or upload a role description for a fit check.",
+    "Hi, I’m Rushabh’s portfolio assistant. Ask about his current AI security work, pharma commercial analytics, agentic AI, or education. Use Book time with Rushabh below to open Calendly.",
 };
 
 const MAX_FILES = 3;
@@ -370,6 +372,15 @@ export function PortfolioChatbot() {
                 </button>
               ))}
             </div>
+
+            <a
+              href={profile.calendly}
+              target="_blank"
+              rel="noreferrer"
+              className="mb-3 inline-flex items-center gap-2 rounded-md border border-border px-3 py-2 text-xs font-medium text-ink transition-colors hover:border-ink/30"
+            >
+              <CalendarDays size={14} /> Book time with Rushabh
+            </a>
 
             {attachments.length ? (
               <div className="mb-3 space-y-2 rounded-xl border border-border bg-background p-2">

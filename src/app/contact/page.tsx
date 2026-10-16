@@ -1,15 +1,21 @@
 import type { Metadata } from "next";
-import { Download, Mail, MapPin, Phone } from "lucide-react";
+import { CalendarDays, Mail, MapPin, Phone } from "lucide-react";
 import { LinkedInIcon } from "@/components/icons";
 import { Reveal } from "@/components/reveal";
 import { profile } from "@/data/profile";
 
 export const metadata: Metadata = {
   title: "Get in touch",
-  description: `Get in touch with ${profile.name} about senior AI, data, and governance roles.`,
+  description: `Contact ${profile.name} to discuss AI security, generative AI, analytics, or request a meeting.`,
 };
 
 const channels = [
+  {
+    icon: CalendarDays,
+    label: "Book time",
+    value: "Choose a slot on Calendly",
+    href: profile.calendly,
+  },
   {
     icon: Mail,
     label: "Email",
@@ -47,28 +53,29 @@ export default function ContactPage() {
                 Get in touch
               </p>
               <h1 className="mt-3 max-w-2xl font-display text-3xl font-medium leading-tight text-ink sm:text-5xl">
-                Let&apos;s talk about your team&apos;s next deployment.
+                Schedule time or contact me.
               </h1>
               <p className="mt-5 max-w-xl text-[15px] leading-relaxed text-muted">
-                I&apos;m open to senior roles where AI meets enterprise data &mdash;
-                AI architecture, AI product and program leadership, data
-                governance, and analytics. The fastest way to reach me is email
-                or LinkedIn.
+                I&apos;m a Senior Manager in Generative AI at Cognizant. My current
+                work is AI security for TD Bank; my pharma work spans commercial
+                analytics, governed data, and agentic AI workflows. Select an
+                available time on Calendly or use the direct contact details.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3">
                 <a
-                  href={`mailto:${profile.email}`}
+                  href={profile.calendly}
+                  target="_blank"
+                  rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-md bg-ink px-5 py-3 text-sm font-medium text-white transition-opacity hover:opacity-90"
                 >
-                  <Mail size={16} /> Email me
+                  <CalendarDays size={16} /> Book on Calendly
                 </a>
                 <a
-                  href={profile.masterResume}
-                  download
+                  href={`mailto:${profile.email}`}
                   className="inline-flex items-center gap-2 rounded-md border border-border bg-surface px-5 py-3 text-sm font-medium text-ink transition-colors hover:border-ink/30"
                 >
-                  <Download size={16} /> Download resume
+                  <Mail size={16} /> Email me
                 </a>
               </div>
             </div>

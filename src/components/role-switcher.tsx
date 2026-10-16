@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useCallback, useSyncExternalStore } from "react";
-import { ArrowRight, Download } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { roleLenses, type RoleLens } from "@/data/profile";
 
 const STORAGE_KEY = "rs-role-lens";
@@ -71,13 +71,13 @@ export function RoleSwitcher() {
 
       <div
         key={active.slug}
-        className="mt-8 overflow-hidden rounded-2xl border border-border bg-surface shadow-sm"
+        className="mt-6 overflow-hidden rounded-2xl border border-border bg-surface shadow-sm"
       >
         <div
           className="h-1.5 w-full"
           style={{ backgroundColor: active.accent }}
         />
-        <div className="grid gap-8 p-6 sm:p-8 lg:grid-cols-[1.5fr_1fr]">
+        <div className="grid gap-6 p-5 sm:p-6 lg:grid-cols-[1.5fr_1fr]">
           <div>
             <div className="flex items-center gap-3">
               <span
@@ -97,27 +97,20 @@ export function RoleSwitcher() {
               </div>
             </div>
 
-            <h2 className="mt-6 font-display text-2xl font-medium leading-snug text-ink sm:text-3xl">
+            <h2 className="mt-4 font-display text-2xl font-medium leading-snug text-ink sm:text-3xl">
               {active.headline}
             </h2>
-            <p className="mt-4 text-[15px] leading-relaxed text-foreground/80">
+            <p className="mt-3 text-[15px] leading-relaxed text-foreground/80">
               {active.summary}
             </p>
 
-            <div className="mt-6 flex flex-wrap gap-3">
+            <div className="mt-4 flex flex-wrap gap-3">
               <Link
                 href={`/work/${active.slug}`}
                 className="inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-sm font-medium text-white transition-opacity hover:opacity-90"
               >
                 View this profile <ArrowRight size={16} />
               </Link>
-              <a
-                href={active.resumeFile}
-                download
-                className="inline-flex items-center gap-2 rounded-md border border-border bg-surface px-4 py-2.5 text-sm font-medium text-ink transition-colors hover:border-ink/30"
-              >
-                <Download size={16} /> Tailored resume
-              </a>
             </div>
           </div>
 

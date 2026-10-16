@@ -37,7 +37,6 @@ export interface RoleLens {
   achievements: Achievement[];
   tools: string[];
   industries: string[];
-  resumeFile: string;
 }
 
 export interface ExperienceItem {
@@ -65,6 +64,21 @@ export interface ProjectItem {
   tags: string[];
 }
 
+export interface ClientItem {
+  name: string;
+  logo: string;
+}
+
+export interface TechnologyItem {
+  name: string;
+  logo?: string;
+}
+
+export interface TechnologyGroup {
+  label: string;
+  technologies: TechnologyItem[];
+}
+
 export interface ResearchPaper {
   title: string;
   authors: string;
@@ -75,33 +89,26 @@ export interface ResearchPaper {
   citedBy?: number;
 }
 
-export interface ResumeVariant {
-  label: string;
-  description: string;
-  file: string;
-  group: string;
-}
-
 export const profile = {
   name: "Rushabh S. Shah",
   shortName: "Rushabh Shah",
-  title: "AI & Data Transformation Leader",
-  subtitle: "AI Solutions Architect · Data & Governance Leader · Researcher",
+  title: "Senior Manager, Generative AI",
+  subtitle: "Agentic AI · AI Security · Pharma Commercial Analytics",
   location: "Boston, MA",
   email: "rushabh1609rs@gmail.com",
   phone: "(617) 991-4109",
   linkedin: "https://www.linkedin.com/in/rushabh96/",
   linkedinLabel: "linkedin.com/in/rushabh96",
   scholar: "https://scholar.google.com/citations?user=9ViRkh8AAAAJ&hl=en",
-  masterResume: "/resumes/Rushabh-Shah-Resume.pdf",
+  calendly: "https://calendly.com/rushabh1609rs",
   positioning:
-    "I architect AI and enterprise-data systems — from ambiguous problem to production-grade solution, and the governance to run it. Across 7+ years in pharma, healthcare, manufacturing, and energy, I have designed AI-powered data quality platforms, agentic workflows, and governance frameworks, alongside peer-reviewed research spanning health equity and the life sciences.",
+    "I lead generative and agentic AI work at Cognizant, including current AI-security work for TD Bank. Across 8+ years, I have built RAG assistants and agentic workflows over SAP, Salesforce, SharePoint, and cloud data. In pharma, my work connects HCP, patient, claims, and commercial data to governed analytics, AI-assisted quality checks, and exception workflows.",
   shortPitch:
-    "AI solutions architect, data and governance leader, and published researcher who designs production systems and the trust to run them.",
+    "Cognizant Senior Manager, Generative AI. Agentic workflows, enterprise AI security, and pharma commercial analytics across 8+ years.",
 } as const;
 
 export const heroAchievements: Achievement[] = [
-  { value: "7+", label: "Years across AI, data & enterprise platforms" },
+  { value: "8+", label: "Years across AI, data & enterprise platforms" },
   { value: "15", label: "Cross-functional engineers & analysts led" },
   { value: "$10M+", label: "Business impact & revenue opportunity" },
   { value: "7+", label: "Multinational clients deployed" },
@@ -110,25 +117,25 @@ export const heroAchievements: Achievement[] = [
 export const roleLenses: RoleLens[] = [
   {
     slug: "ai-engineering",
-    label: "AI Solution Architecture",
-    shortLabel: "AI Architecture",
+    label: "Agentic AI & Security",
+    shortLabel: "Agentic AI",
     accent: "#2563eb",
     icon: BrainCircuit,
-    headline: "I architect AI that works inside real enterprise workflows.",
-    tagline: "From ambiguous problem to production-ready agentic architecture.",
+    headline: "I build agentic AI into enterprise workflows, with security in scope.",
+    tagline: "RAG, multi-agent workflows, human review, and governed delivery.",
     summary:
-      "AI solutions architect who embeds with client teams to move unclear AI problems into tested prototypes, reference architectures, adoption plans, and production workflows. Hands-on across Python, SQL, RAG pipelines, agent orchestration, and cloud delivery.",
+      "Built RAG assistants and agentic workflows across SAP, Salesforce, SharePoint, and cloud data. The work includes data profiling, anomaly review, exception routing, governance tasks, human review, and build-to-release readiness. Current Cognizant work includes AI security for TD Bank.",
     strengths: [
-      "Client discovery, workflow mapping, and rapid prototyping",
-      "LLM apps, RAG pipelines, vector search, and prompt design",
-      "Agent orchestration with MCP and A2A patterns plus human review",
-      "Build-to-release: APIs, CI/CD concepts, IAM, and production readiness",
+      "Agentic workflows for profiling, reconciliation, and exception routing",
+      "RAG assistants grounded in ERP, CRM, and document repositories",
+      "MCP/A2A orchestration with human review and governance checkpoints",
+      "AI security, IAM, testing, and production-readiness planning",
     ],
     highlights: [
-      "Embedded with client teams to turn unclear AI and data problems into working prototypes, delivery plans, and production-ready workflows.",
-      "Built RAG-based assistants that search SAP, Salesforce, SharePoint, cloud data, and policy documents through natural language.",
-      "Developed agentic workflow patterns using MCP and A2A concepts for data profiling, anomaly review, exception routing, and governance tasks.",
-      "Defined build-to-release steps for AI prototypes including backlog items, test cases, UAT scripts, IAM, and CI/CD-ready handoffs.",
+      "Built RAG assistants over SAP, Salesforce, SharePoint, and cloud data for natural-language access to enterprise knowledge.",
+      "Designed agentic workflows for data profiling, reconciliation, anomaly review, and exception routing using MCP/A2A patterns.",
+      "Added human-review and governance checkpoints to AI workflows handling regulated enterprise data.",
+      "Currently working on AI security for TD Bank in Cognizant's Generative AI practice.",
     ],
     achievements: [
       { value: "~40%", label: "Less manual effort via Data Lighthouse" },
@@ -148,8 +155,7 @@ export const roleLenses: RoleLens[] = [
       "AWS Bedrock",
       "Vertex AI",
     ],
-    industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-AI-Engineering.pdf",
+    industries: ["Pharma", "Financial Services", "Healthcare", "Manufacturing"],
   },
   {
     slug: "program-management",
@@ -193,7 +199,6 @@ export const roleLenses: RoleLens[] = [
       "Databricks",
     ],
     industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-Program-Management.pdf",
   },
   {
     slug: "data-governance",
@@ -236,7 +241,6 @@ export const roleLenses: RoleLens[] = [
       "Python",
     ],
     industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-Data-Governance.pdf",
   },
   {
     slug: "business-intelligence",
@@ -244,10 +248,10 @@ export const roleLenses: RoleLens[] = [
     shortLabel: "Business Intelligence",
     accent: "#d97706",
     icon: LineChart,
-    headline: "I turn complex data into reporting leaders can trust.",
-    tagline: "KPIs, dashboards, and reconciliation from source to release.",
+    headline: "I connect pharma commercial data to decision-ready analytics.",
+    tagline: "HCP, patient, claims, and commercial performance reporting.",
     summary:
-      "BI and reporting leader who builds trusted dashboards, defines KPIs, and improves reporting quality for enterprise clients using SQL, Python, Tableau, Power BI, Snowflake, and Databricks.",
+      "Integrated ERP, CRM, claims, and supply-chain data into analytics for HCP, patient, and commercial performance. Built Tableau and Power BI reporting on Snowflake and Databricks, with KPI definitions, source-to-report reconciliation, and AI-assisted anomaly checks.",
     strengths: [
       "Analytics strategy, KPI standardization, and metric governance",
       "Executive dashboards, operational and self-service reporting",
@@ -255,8 +259,8 @@ export const roleLenses: RoleLens[] = [
       "Trend, variance, and root-cause analysis on large datasets",
     ],
     highlights: [
-      "Translated business questions into clear KPIs, dashboards, and recurring reports across pharma, healthcare, manufacturing, and energy clients.",
-      "Built and oversaw Tableau and Power BI dashboards on Snowflake and Databricks, improving reporting speed and reducing data latency by ~25%.",
+      "Integrated ERP, CRM, claims, and supply-chain data into analytics layers for HCP, patient, and commercial performance.",
+      "Built Tableau and Power BI dashboards on Snowflake and Databricks, reducing reporting latency by ~25%.",
       "Established reporting controls from source data through dashboard release, reducing spreadsheet dependence and preventing defects from reaching users.",
       "Introduced AI-assisted checks that flag anomalies and mismatches before reports are published.",
     ],
@@ -277,8 +281,7 @@ export const roleLenses: RoleLens[] = [
       "Salesforce",
       "Advanced Excel",
     ],
-    industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-Business-Intelligence.pdf",
+    industries: ["Pharma Commercial", "Retail", "Healthcare", "Manufacturing"],
   },
   {
     slug: "master-data",
@@ -321,7 +324,6 @@ export const roleLenses: RoleLens[] = [
       "Python",
     ],
     industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-Master-Data.pdf",
   },
   {
     slug: "finance-data-quality",
@@ -364,28 +366,27 @@ export const roleLenses: RoleLens[] = [
       "Power BI",
     ],
     industries: ["Pharma", "Healthcare", "Manufacturing", "Energy"],
-    resumeFile: "/resumes/Rushabh-Shah-Finance-Data-Quality.pdf",
   },
   {
     slug: "life-sciences",
-    label: "Pharma & Life Sciences",
-    shortLabel: "Life Sciences",
+    label: "Pharma Commercial, Analytics & AI",
+    shortLabel: "Pharma Commercial",
     accent: "#db2777",
     icon: Truck,
-    headline: "I bring AI and data rigor to regulated life sciences.",
-    tagline: "GxP-aligned data, MDM, and analytics for pharma and healthcare.",
+    headline: "I connect pharma commercial data, analytics, and AI.",
+    tagline: "Commercial performance, governed data, and agentic workflows.",
     summary:
-      "Life sciences data leader who runs enterprise MDM and governance for pharma, medical device, and healthcare organizations with compliance to FDA 21 CFR Part 11 and GxP requirements.",
+      "Pharma experience spans HCP, patient, claims, ERP/CRM, and supply-chain data; commercial dashboards; GxP-aligned governance; and AI-assisted data operations. Built RAG assistants and agentic workflows for enterprise knowledge, profiling, and exception review.",
     strengths: [
-      "Enterprise MDM for pharma, medical device, and life sciences",
-      "Data governance aligned to GxP and FDA 21 CFR Part 11",
-      "LIMS implementation and regulated data capture",
-      "Patient, HCP, commercial, and operational analytics",
+      "Commercial analytics across HCP, patient, claims, and operational data",
+      "Agentic AI for profiling, quality checks, and exception review",
+      "GxP governance and FDA 21 CFR Part 11 data controls",
+      "Pharma MDM, LIMS, and ERP/CRM data integration",
     ],
     highlights: [
-      "Led enterprise MDM programs across customer, vendor, material, and finance domains for large-scale pharma and global life sciences organizations.",
-      "Defined data governance and quality frameworks aligned with GxP standards, ensuring integrity, traceability, and audit readiness.",
-      "Integrated data across ERP, CRM, claims, and supply chain systems into unified dashboards for patient, HCP, and commercial performance.",
+      "Integrated ERP, CRM, claims, and supply-chain data into analytics for HCP, patient, and commercial performance.",
+      "Applied agentic AI and RAG patterns to data profiling, quality review, exception routing, and enterprise knowledge access.",
+      "Established GxP-aligned governance and quality controls for regulated life-sciences data.",
       "Supported a global LIMS implementation across 7+ sites, driving standardization and regulatory compliance.",
     ],
     achievements: [
@@ -404,31 +405,51 @@ export const roleLenses: RoleLens[] = [
       "FDA 21 CFR Part 11",
       "LIMS",
     ],
-    industries: ["Pharma", "Medical Device", "Healthcare", "Life Sciences"],
-    resumeFile: "/resumes/Rushabh-Shah-Life-Sciences.pdf",
+    industries: ["Pharma Commercial", "Medical Device", "Healthcare", "Life Sciences"],
   },
 ];
 
 export const experience: ExperienceItem[] = [
   {
-    role: "Manager Consultant — SME Business Data Services",
+    role: "Senior Manager, Generative AI",
+    company: "Cognizant",
+    location: "Boston, MA",
+    period: "Jul 2026 – Present",
+    summary:
+      "Senior Manager in Cognizant's Generative AI practice, currently working on AI security for TD Bank.",
+    points: [
+      "Contribute to AI security work for TD Bank as part of Cognizant's generative AI practice.",
+    ],
+  },
+  {
+    role: "Senior Manager Consultant",
     company: "Genpact LLC",
     location: "Boston, MA",
-    period: "Jun 2023 – Present",
+    period: "Jun 2025 – Jun 2026",
     summary:
-      "Lead AI, data, analytics, and governance programs for enterprise clients across pharma, healthcare, manufacturing, and energy.",
+      "Led AI-led data transformation programs focused on agentic AI, data quality automation, enterprise governance, and MDM modernization for global clients.",
     points: [
       "Led a 15-member cross-functional team across data engineering, analytics, AI/ML, and business functions, embedding with client teams to turn unclear problems into production-ready workflows.",
       "Designed and deployed Data Lighthouse, an AI-powered data quality and governance platform, reducing manual effort by ~40% and improving data accuracy by ~30%.",
-      "Established MDM, data quality, lineage, and stewardship frameworks across customer, vendor, material, and finance domains aligned with GDPR and GxP, reducing duplicate records by ~25%.",
       "Built RAG-based assistants and agentic workflows over SAP, Salesforce, SharePoint, and cloud data using MCP and A2A patterns.",
+    ],
+  },
+  {
+    role: "Manager Consultant",
+    company: "Genpact LLC",
+    location: "Boston, MA",
+    period: "Jun 2023 – Jun 2025",
+    summary:
+      "Led enterprise data, MDM, and AI transformation initiatives across manufacturing, life sciences, healthcare, pharma, and energy clients.",
+    points: [
+      "Established MDM, data quality, lineage, and stewardship frameworks across customer, vendor, material, and finance domains aligned with GDPR and GxP.",
       "Delivered cloud-native data solutions across AWS, Azure, and GCP, reducing reporting latency by ~25%.",
-      "Supported AI opportunity assessments and demos across 7+ multinational clients, contributing to $10M+ in business impact and revenue opportunities.",
+      "Supported AI opportunity assessments across multinational clients, contributing to business impact and revenue opportunities.",
     ],
   },
   {
     role: "Business Analyst",
-    company: "Cognizant Pvt. Ltd.",
+    company: "Cognizant",
     location: "Mumbai, India",
     period: "May 2021 – Jul 2022",
     summary:
@@ -457,6 +478,13 @@ export const experience: ExperienceItem[] = [
 
 export const education: EducationItem[] = [
   {
+    school: "University of the Cumberlands",
+    credential: "Doctorate in Artificial Intelligence (in progress)",
+    detail: "Doctoral studies",
+    location: "United States",
+    period: "Jul 2026 – Dec 2029",
+  },
+  {
     school: "Arizona State University — W. P. Carey School of Business",
     credential: "Master of Science in Business Analytics (MSBA)",
     detail: "GPA 4.0",
@@ -480,6 +508,8 @@ export const education: EducationItem[] = [
 ];
 
 export const certifications: string[] = [
+  "Claude Certified Architect - Professional (Anthropic)",
+  "Databricks Certified Generative AI Engineer Associate",
   "AWS Certified Cloud Practitioner",
   "Lean Six Sigma Green Belt",
   "Snowflake Partner Technical Foundations",
@@ -529,6 +559,41 @@ export const researchPapers: ResearchPaper[] = [
 ];
 
 export const projects: ProjectItem[] = [
+  {
+    name: "AI Security for TD Bank",
+    tagline: "Generative AI · Financial services",
+    description:
+      "Current work at Cognizant focused on AI security for TD Bank. Details are intentionally kept high-level.",
+    impact: [
+      "Current Senior Manager, Generative AI engagement",
+      "AI security work in a financial-services context",
+    ],
+    tags: ["Generative AI", "AI Security", "Financial Services"],
+  },
+  {
+    name: "Pharma Commercial Analytics & AI",
+    tagline: "HCP, patient, claims, and commercial performance",
+    description:
+      "Integrated ERP, CRM, claims, and supply-chain data for HCP, patient, and commercial analytics. Related AI delivery includes RAG knowledge access, AI-assisted quality checks, and agentic workflows for profiling and exception review.",
+    impact: [
+      "Commercial dashboards across HCP, patient, claims, and operational data",
+      "AI-assisted profiling, anomaly review, and exception workflows",
+      "Governed data foundations aligned with regulated life sciences",
+    ],
+    tags: ["Pharma", "Commercial Analytics", "HCP", "Patient Data", "Claims"],
+  },
+  {
+    name: "Retail Performance Analytics",
+    tagline: "Sales, customer, product, and inventory insights",
+    description:
+      "Retail analytics focus across sales, customer, product, and inventory data: category and channel performance, customer segmentation, KPI definitions, and demand trends.",
+    impact: [
+      "Category and channel performance reporting",
+      "Customer segmentation and product analytics",
+      "Inventory visibility and demand trends",
+    ],
+    tags: ["Retail", "Business Analytics", "Customer Data", "KPIs"],
+  },
   {
     name: "Data Lighthouse",
     tagline: "AI-powered data quality & governance platform",
@@ -658,62 +723,79 @@ export const skillGroups: SkillGroup[] = [
 
 export const industries: string[] = [
   "Pharmaceutical",
+  "Pharma Commercial",
   "Healthcare",
   "Life Sciences",
+  "Retail",
+  "Financial Services",
   "Manufacturing",
   "Energy / Oil & Gas",
   "BFSI",
   "Supply Chain & Logistics",
 ];
 
-export const resumeVariants: ResumeVariant[] = [
+export const clients: ClientItem[] = [
+  { name: "Kenvue", logo: "/images/clients/kenvue.svg" },
+  { name: "Medtronic", logo: "/images/clients/medtronic.png" },
+  { name: "Takeda", logo: "/images/clients/takeda.svg" },
   {
-    label: "General Resume",
-    description: "Latest all-round resume covering AI, data, and delivery.",
-    file: "/resumes/Rushabh-Shah-Resume.pdf",
-    group: "Featured",
+    name: "Boehringer Ingelheim",
+    logo: "/images/clients/boehringer-ingelheim.svg",
+  },
+  { name: "TD Bank", logo: "/images/clients/td-bank.png" },
+  { name: "Walmart", logo: "/images/clients/walmart.svg" },
+  { name: "Heineken", logo: "/images/clients/heineken.png" },
+  { name: "HESS", logo: "/images/clients/hess.png" },
+];
+
+export const technologyGroups: TechnologyGroup[] = [
+  {
+    label: "Cloud",
+    technologies: [
+      { name: "AWS", logo: "/images/technology/aws.png" },
+      { name: "Azure", logo: "/images/technology/azure.svg" },
+      { name: "Google Cloud", logo: "/images/technology/google-cloud.svg" },
+    ],
   },
   {
-    label: "AI Solution Architecture",
-    description: "Hands-on AI architecture, RAG, and agentic deployment focus.",
-    file: "/resumes/Rushabh-Shah-AI-Engineering.pdf",
-    group: "By role",
+    label: "Data platforms",
+    technologies: [
+      { name: "Databricks", logo: "/images/technology/databricks.svg" },
+      { name: "Snowflake", logo: "/images/technology/snowflake.svg" },
+    ],
   },
   {
-    label: "Technical Program & Product Management",
-    description: "Cross-functional delivery, roadmaps, and release management.",
-    file: "/resumes/Rushabh-Shah-Program-Management.pdf",
-    group: "By role",
+    label: "Analytics",
+    technologies: [
+      { name: "Tableau", logo: "/images/technology/tableau.png" },
+      { name: "Power BI", logo: "/images/technology/power-bi.png" },
+    ],
   },
   {
-    label: "Data Governance & Quality",
-    description: "Governance operating models, policies, and stewardship.",
-    file: "/resumes/Rushabh-Shah-Data-Governance.pdf",
-    group: "By role",
+    label: "Languages",
+    technologies: [
+      { name: "Python", logo: "/images/technology/python.svg" },
+      { name: "R", logo: "/images/technology/r.svg" },
+      { name: "SQL" },
+    ],
   },
   {
-    label: "Business Intelligence & Analytics",
-    description: "KPIs, dashboards, and trusted reporting foundations.",
-    file: "/resumes/Rushabh-Shah-Business-Intelligence.pdf",
-    group: "By role",
+    label: "AI tools",
+    technologies: [
+      { name: "OpenAI", logo: "/images/technology/openai.png" },
+      { name: "Anthropic", logo: "/images/technology/anthropic.svg" },
+      { name: "FastAPI", logo: "/images/technology/fastapi.svg" },
+      { name: "RAG" },
+      { name: "MCP / A2A" },
+    ],
   },
   {
-    label: "Master Data & Supplier / Procurement",
-    description: "MDM, supplier/P2P controls, and golden records.",
-    file: "/resumes/Rushabh-Shah-Master-Data.pdf",
-    group: "By role",
-  },
-  {
-    label: "Finance Data Quality",
-    description: "Financial data reliability, reconciliation, and controls.",
-    file: "/resumes/Rushabh-Shah-Finance-Data-Quality.pdf",
-    group: "By role",
-  },
-  {
-    label: "Pharma & Life Sciences",
-    description: "GxP-aligned MDM, governance, and analytics for life sciences.",
-    file: "/resumes/Rushabh-Shah-Life-Sciences.pdf",
-    group: "By industry",
+    label: "Enterprise systems",
+    technologies: [
+      { name: "SAP", logo: "/images/technology/sap.svg" },
+      { name: "Salesforce", logo: "/images/technology/salesforce.svg" },
+      { name: "SharePoint" },
+    ],
   },
 ];
 

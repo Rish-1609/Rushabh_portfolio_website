@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowUpRight, Download } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { Reveal } from "@/components/reveal";
 import { profile, roleLenses } from "@/data/profile";
 
 export const metadata: Metadata = {
   title: "Work",
   description:
-    "Role-specific profiles spanning AI architecture, program management, data governance, BI, master data, finance data quality, and life sciences.",
+    "Agentic AI, pharma commercial analytics, enterprise data governance, and business intelligence experience.",
 };
 
 export default function WorkPage() {
@@ -20,13 +20,13 @@ export default function WorkPage() {
               Work
             </p>
             <h1 className="mt-3 max-w-3xl font-display text-3xl font-medium leading-tight text-ink sm:text-5xl">
-              One operator, framed for the role you are hiring for.
+              Agentic AI, pharma commercial, and enterprise analytics.
             </h1>
             <p className="mt-5 max-w-2xl text-[15px] leading-relaxed text-muted">
-              Each profile below draws on the same body of work — AI deployment,
-              data quality, governance, and analytics — and frames it for a
-              specific hiring need. Open any profile for proof points, tools, and
-              a tailored resume.
+              Current Cognizant work includes AI security for TD Bank. Pharma
+              delivery has covered HCP, patient, claims, ERP/CRM, commercial
+              dashboards, AI-assisted quality checks, and agentic exception
+              workflows. Select a specialty for the relevant proof points.
             </p>
           </Reveal>
         </div>
@@ -50,13 +50,6 @@ export default function WorkPage() {
                       >
                         <Icon size={24} />
                       </span>
-                      <a
-                        href={lens.resumeFile}
-                        download
-                        className="inline-flex items-center gap-1.5 rounded-md border border-border px-3 py-1.5 text-xs font-medium text-muted transition-colors hover:border-ink/30 hover:text-ink"
-                      >
-                        <Download size={13} /> Resume
-                      </a>
                     </div>
 
                     <h2 className="mt-5 font-display text-xl font-medium text-ink">
@@ -103,16 +96,12 @@ export default function WorkPage() {
       <section className="border-t border-border bg-surface-2/50">
         <div className="shell section-sm">
           <Reveal>
-            <div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-center">
-              <p className="max-w-md text-[15px] text-foreground/80">
-                Not sure which profile fits? The resume hub lets you compare and
-                download every tailored version in one place.
-              </p>
+            <div className="flex items-center justify-end">
               <Link
-                href="/resume"
+                href="/#selected-work"
                 className="inline-flex items-center gap-2 rounded-md bg-ink px-5 py-3 text-sm font-medium text-white transition-opacity hover:opacity-90"
               >
-                <Download size={16} /> Go to resume hub
+                Explore domain projects <ArrowUpRight size={16} />
               </Link>
             </div>
           </Reveal>

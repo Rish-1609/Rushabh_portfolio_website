@@ -10,7 +10,6 @@ import {
   profile,
   projects,
   researchPapers,
-  resumeVariants,
   roleLenses,
   skillGroups,
 } from "@/data/profile";
@@ -65,7 +64,6 @@ function buildKnowledgeBase() {
         achievements: role.achievements,
         tools: role.tools,
         industries: role.industries,
-        resumeFile: role.resumeFile,
       })),
       experience,
       education,
@@ -74,11 +72,9 @@ function buildKnowledgeBase() {
       projects,
       skillGroups,
       industries,
-      resumeVariants,
       siteRoutes: {
         work: "/work",
         education: "/education",
-        resume: "/resume",
         contact: "/contact",
       },
     },
@@ -91,12 +87,14 @@ function systemPrompt() {
   return `You are the floating AI assistant for Rushabh Shah's personal portfolio website.
 
 Your job:
-- Answer questions about Rushabh Shah's background, work, education, research, resumes, projects, skills, and fit for roles.
-- Be concise, polished, practical, and recruiter-friendly.
-- Use only the portfolio knowledge base and user-provided uploaded context. Do not invent employers, degrees, metrics, publications, titles, or dates.
-- If a user uploads a job description, resume, image, or note, compare it against Rushabh's profile and recommend the best matching resume or page.
+- Answer questions about Rushabh Shah's background, current work, education, research, projects, skills, and fit for roles.
+- Be concise, specific, polished, and useful to recruiters, clients, and collaborators.
+- Use only the portfolio knowledge base and user-provided uploaded context. Do not invent employers, degrees, metrics, publications, titles, dates, or project details.
+- If a user uploads a job description, resume, image, or note, compare it against the known profile, separate confirmed matches from gaps, and point to relevant work or education details.
 - You are not Rushabh. Say "Rushabh" or "he" rather than pretending to be him.
-- When useful, point users to /work, /education, /resume, or /contact, and mention relevant resume files by label.
+- When useful, direct people to /#expertise, /#selected-work, or /contact.
+- For meeting or booking requests, direct the user to the "Book time with Rushabh" button or Calendly at ${profile.calendly}. Do not claim to book on the user's behalf.
+- Discuss the TD Bank work only at the level stated in the profile: AI security within Rushabh's current generative AI role at Cognizant. Do not speculate about client systems, controls, incidents, or implementation details.
 - If information is not available, say so clearly and suggest contacting Rushabh through /contact.
 - Do not provide legal, medical, immigration, or financial advice.
 - Keep answers under 250 words unless the user asks for a detailed comparison.
@@ -125,16 +123,6 @@ function attachmentContext(attachments: ChatAttachment[] = []) {
 export async function POST(request: NextRequest) {
   const apiKey = process.env.OPENAI_API_KEY;
 
-  if (!apiKey) {
-    return NextResponse.json(
-      {
-        error:
-          "OPENAI_API_KEY is not configured. Add it in .env.local and Vercel Environment Variables.",
-      },
-      { status: 500 },
-    );
-  }
-
   let payload: ChatPayload;
 
   try {
@@ -154,6 +142,25 @@ export async function POST(request: NextRequest) {
 
   if (!messages.length) {
     return NextResponse.json({ error: "Send at least one message." }, { status: 400 });
+  }
+
+  if (!apiKey) {
+    const latestMessage =
+      messages.filter((message) => message.role === "user").pop()?.content.toLowerCase() || "";
+    const asksToMeet = /\b(book|booking|schedule|meeting|calendar|availability)\b/.test(
+      latestMessage,
+    );
+    const asksToContact = /\b(contact|email|phone|linkedin|reach|connect)\b/.test(
+      latestMessage,
+    );
+
+    const answer = asksToMeet
+      ? `Choose an available time with Rushabh on Calendly: ${profile.calendly}`
+      : asksToContact
+        ? `You can email Rushabh at ${profile.email}, connect through LinkedIn: ${profile.linkedin}, or book time at ${profile.calendly}.`
+        : "The profile AI is unavailable until OPENAI_API_KEY is configured. You can still browse Work and Education, book time on Calendly, or contact Rushabh directly.";
+
+    return NextResponse.json({ answer });
   }
 
   const attachments = (payload.attachments || []).slice(0, MAX_IMAGES);

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, ArrowRight, Check, Download } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check } from "lucide-react";
 import { Reveal } from "@/components/reveal";
 import { getRoleLens, profile, roleLenses } from "@/data/profile";
 
@@ -80,19 +80,11 @@ export default async function WorkDetailPage({ params }: PageProps) {
 
           <Reveal delay={180}>
             <div className="mt-8 flex flex-wrap gap-3">
-              <a
-                href={lens.resumeFile}
-                download
-                className="inline-flex items-center gap-2 rounded-md px-5 py-3 text-sm font-medium text-white transition-opacity hover:opacity-90"
-                style={{ backgroundColor: lens.accent }}
-              >
-                <Download size={16} /> Download tailored resume
-              </a>
               <Link
                 href="/contact"
                 className="inline-flex items-center gap-2 rounded-md border border-border bg-surface px-5 py-3 text-sm font-medium text-ink transition-colors hover:border-ink/30"
               >
-                Get in touch <ArrowRight size={16} />
+                Contact / Book time <ArrowRight size={16} />
               </Link>
             </div>
           </Reveal>

@@ -7,10 +7,8 @@ import { Menu, X } from "lucide-react";
 import { profile } from "@/data/profile";
 
 const navItems = [
-  { href: "/", label: "Home" },
-  { href: "/work", label: "Work" },
-  { href: "/education", label: "Education" },
-  { href: "/resume", label: "Resume" },
+  { href: "/#expertise", label: "Expertise" },
+  { href: "/#clients", label: "Clients" },
 ];
 
 export function SiteHeader() {
@@ -54,7 +52,7 @@ export function SiteHeader() {
             href="/contact"
             className="ml-2 rounded-md bg-ink px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
           >
-            Get in touch
+            Contact / Book time
           </Link>
         </nav>
 
@@ -82,6 +80,13 @@ export function SiteHeader() {
               {item.label}
             </Link>
           ))}
+          <a
+            href="/contact"
+            onClick={() => setOpen(false)}
+            className="mt-2 block rounded-md bg-ink px-3 py-3 text-center text-base font-medium text-white"
+          >
+            Contact / Book time
+          </a>
         </nav>
       )}
     </header>
